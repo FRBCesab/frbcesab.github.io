@@ -1,0 +1,61 @@
+baseurl: https://frbcesab.github.io
+DefaultContentLanguage: en
+title: FRB-CESAB
+theme: beautifulhugo
+metaDataFormat: yaml
+pygmentsStyle: trac
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+Params:
+  comments: no
+  commit: no
+  dateFormat: January 2, 2006
+  delayDisqus: no
+  favicon: img/favicon.ico
+  logo: img/avatar-icon.png
+  mainSections:
+    - post
+    - posts
+  readingTime: no
+  rss: no
+  showRelatedPosts: no
+  socialShare: no
+  subtitle: Databases and tools developed by FRB-CESAB researchers
+  summary: "By encouraging the groups hosted to allow everyone to access to the tools and databases developed as part of their work, CESAB is supporting open science since its creation in 2010."
+  useHLJS: yes
+  wordCount: no
+  hideAuthor: yes
+  css: "css/custom.css"
+Author:
+  name: FRB-CESAB
+  website: https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/
+  email: nicolas.casajus@fondationbiodiversite.fr
+  github: FRBCesab
+  twitter: FRBiodiv
+  facebook: "Fondation-pour-la-Recherche-sur-la-Biodiversit%C3%A9-120550651985430/"
+  youtube: biodiversite2010
+menu:
+  main:
+    - name: Home
+      url: .
+      weight: 1
+    - name: R packages
+      url: tags/r-package
+      weight: 2
+    - name: Databases
+      url: .
+      weight: 3
+    - name: Courses
+      url: .
+      weight: 4
+    - name: '#Tags'
+      url: tags
+      weight: 5
+    - name: About
+      url: 'https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/'
+      weight: 6
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
