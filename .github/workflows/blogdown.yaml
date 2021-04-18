@@ -1,0 +1,41 @@
+on:
+  push:
+    branches:
+      - main
+      - master
+
+name: Build and Deploy
+
+jobs:
+  build:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Install pandoc
+        run: |
+          brew install pandoc
+
+      - name: Install hugo
+        run: |
+          R -e 'blogdown::install_hugo()'
+
+      - name: Build site
+        run: |
+          R -e 'blogdown::build_site(TRUE)'
+
+      - name: Install npm
+        uses: actions/setup-node@v1
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
