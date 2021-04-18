@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cran on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/cran/</link>
+    <description>Recent content in cran on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/cran/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rcompendium</title>
+      <link>https://frbcesab.github.io/post/rcompendium/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/rcompendium/</guid>
+      <description>&lt;p&gt;The aim of the package &lt;code&gt;rcompendium&lt;/code&gt; is to make easier the creation of
+R package or research compendium
+(i.e. a predefined files/folders structure) so that users can focus on the code
+instead of wasting time organizing files.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>algaeClassify</title>
+      <link>https://frbcesab.github.io/post/algaeclassify/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/algaeclassify/</guid>
+      <description>&lt;p&gt;The aim of the package &lt;code&gt;algaeClassify&lt;/code&gt; is to determine phytoplankton functional groups
+based on functional traits. It allows to verify accepted taxonomic nomenclature of
+phytoplankton species, assign species to functional group classifications, and
+manipulate taxonomic and functional diversity data.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/geisha/&#34;&gt;&lt;strong&gt;GEISHA&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ConR</title>
+      <link>https://frbcesab.github.io/post/conr/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/conr/</guid>
+      <description>&lt;p&gt;&lt;code&gt;ConR&lt;/code&gt; is an R package to compute multi-species estimation of geographical range
+parameters for preliminary assessment of conservation status following Criterion B
+of the International Union for Conservation of Nature (IUCN).&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/rainbio/&#34;&gt;&lt;strong&gt;RAINBIO&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>funrar</title>
+      <link>https://frbcesab.github.io/post/funrar/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/funrar/</guid>
+      <description>&lt;p&gt;&lt;code&gt;funrar&lt;/code&gt; is an R package to compute functional rarity indices. It quantifies how
+species are rare both from a functional and an extent point of view.
+Various indices can be computed using both regional and local information.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/&#34;&gt;&lt;strong&gt;FREE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

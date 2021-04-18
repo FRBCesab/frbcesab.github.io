@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phytoplankton on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/phytoplankton/</link>
+    <description>Recent content in phytoplankton on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/phytoplankton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algaeClassify</title>
+      <link>https://frbcesab.github.io/post/algaeclassify/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/algaeclassify/</guid>
+      <description>&lt;p&gt;The aim of the package &lt;code&gt;algaeClassify&lt;/code&gt; is to determine phytoplankton functional groups
+based on functional traits. It allows to verify accepted taxonomic nomenclature of
+phytoplankton species, assign species to functional group classifications, and
+manipulate taxonomic and functional diversity data.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/geisha/&#34;&gt;&lt;strong&gt;GEISHA&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

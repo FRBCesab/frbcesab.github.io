@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/development/</link>
+    <description>Recent content in development on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rcompendium</title>
+      <link>https://frbcesab.github.io/post/rcompendium/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/rcompendium/</guid>
+      <description>&lt;p&gt;The aim of the package &lt;code&gt;rcompendium&lt;/code&gt; is to make easier the creation of
+R package or research compendium
+(i.e. a predefined files/folders structure) so that users can focus on the code
+instead of wasting time organizing files.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
