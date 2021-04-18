@@ -9,4 +9,4 @@ FRB-CESAB website presenting tools, courses, and databases shared by CESAB resea
 
 URL: [https://frbcesab.github.io/](https://frbcesab.github.io/)
 
-Powered by [Hugo](https://gohugo.io/), [`blogdown`](https://bookdown.org/yihui/blogdown/), and the [Beautifulhugo](https://github.com/halogenica/beautifulhugo) theme.
+Powered by [Hugo](https://gohugo.io/), [`blogdown`](https://bookdown.org/yihui/blogdown/), and the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) theme.
