@@ -5,7 +5,7 @@ body {
 }
 
 nav, .navbar, .navbar-default, .navbar-fixed-top, .navbar-custom,
-.container-fluid, 
+.container-fluid,
  a {
   background-color: #232425;
   color: #ff0000;
@@ -79,4 +79,10 @@ nav, .navbar, .navbar-default, .navbar-fixed-top, .navbar-custom,
   .post-preview .blog-info, .post-preview .blog-contact {
     margin-top: 10px;
   }
+}
+
+.brand-img {
+  width: 150px;
+  margin: 0;
+  padding: 0;
 }
