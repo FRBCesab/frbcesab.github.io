@@ -47,7 +47,7 @@ menu:
       url: tags/databases
       weight: 3
     - name: Courses
-      url: .
+      url: tags/courses
       weight: 4
     - name: '#Tags'
       url: tags
