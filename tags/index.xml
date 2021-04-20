@@ -36,11 +36,11 @@
     </item>
     
     <item>
-      <title>r-package</title>
-      <link>https://frbcesab.github.io/tags/r-package/</link>
+      <title>r-packages</title>
+      <link>https://frbcesab.github.io/tags/r-packages/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/r-package/</guid>
+      <guid>https://frbcesab.github.io/tags/r-packages/</guid>
       <description></description>
     </item>
     
@@ -149,6 +149,42 @@
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/rarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>databases</title>
+      <link>https://frbcesab.github.io/tags/databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediterranean-trees</title>
+      <link>https://frbcesab.github.io/tags/mediterranean-trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/mediterranean-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>occurrences</title>
+      <link>https://frbcesab.github.io/tags/occurrences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/occurrences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogeny</title>
+      <link>https://frbcesab.github.io/tags/phylogeny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/phylogeny/</guid>
       <description></description>
     </item>
     
