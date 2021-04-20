@@ -44,7 +44,7 @@ menu:
       url: tags/r-package
       weight: 2
     - name: Databases
-      url: .
+      url: tags/databases
       weight: 3
     - name: Courses
       url: .
