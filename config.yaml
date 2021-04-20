@@ -41,7 +41,7 @@ menu:
       url: .
       weight: 1
     - name: R packages
-      url: tags/r-package
+      url: tags/r-packages
       weight: 2
     - name: Databases
       url: tags/databases

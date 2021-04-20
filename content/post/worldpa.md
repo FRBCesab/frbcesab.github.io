@@ -9,13 +9,13 @@ contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus/"
 tags:
-- r-package
+- r-packages
 - api
 - protected-areas
 - spatial
 ---
 
-The package `worldpa` is an interface to the World Database on Protected Areas (WDPA) 
-hosted on the [Protected planet website](https://www.protectedplanet.net). 
-It allows users to download spatial shapefiles of protected areas for world 
+The package `worldpa` is an interface to the World Database on Protected Areas (WDPA)
+hosted on the [Protected planet website](https://www.protectedplanet.net).
+It allows users to download spatial shapefiles of protected areas for world
 countries using the WDPA [API](https://api.protectedplanet.net).

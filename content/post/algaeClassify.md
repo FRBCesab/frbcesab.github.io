@@ -8,7 +8,7 @@ contact:
   name: Vijay P. Patil
   url: "https://www.usgs.gov/staff-profiles/vijay-p-patil?qt-staff_profile_science_products=0#qt-staff_profile_science_products"
 tags:
-- r-package
+- r-packages
 - cran
 - ecology
 - traits
@@ -16,8 +16,8 @@ tags:
 ---
 
 The aim of the package `algaeClassify` is to determine phytoplankton functional groups
-based on functional traits. It allows to verify accepted taxonomic nomenclature of 
-phytoplankton species, assign species to functional group classifications, and 
+based on functional traits. It allows to verify accepted taxonomic nomenclature of
+phytoplankton species, assign species to functional group classifications, and
 manipulate taxonomic and functional diversity data.
 
 This work is part of the CESAB working group [**GEISHA**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/geisha/)

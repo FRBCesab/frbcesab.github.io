@@ -10,7 +10,7 @@ contact:
   name: Matthias Grenié
   url: "https://rekyt.github.io/"
 tags:
-- r-package
+- r-packages
 - cran
 - ecology
 - rarity
@@ -18,8 +18,8 @@ tags:
 - ecological-models
 ---
 
-`funrar` is an R package to compute functional rarity indices. It quantifies how 
-species are rare both from a functional and an extent point of view. 
+`funrar` is an R package to compute functional rarity indices. It quantifies how
+species are rare both from a functional and an extent point of view.
 Various indices can be computed using both regional and local information.
 
 This work is part of the CESAB working group [**FREE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/)
