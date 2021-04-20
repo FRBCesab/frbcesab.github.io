@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>courses on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/courses/</link>
+    <description>Recent content in courses on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course on reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>&lt;p&gt;Since 2019 the FRB-CESAB and the &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34;&gt;&lt;strong&gt;GDR EcoStat&lt;/strong&gt;&lt;/a&gt; organize
+the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
