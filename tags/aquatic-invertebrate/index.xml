@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aquatic-invertebrate on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/aquatic-invertebrate/</link>
+    <description>Recent content in aquatic-invertebrate on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Tue, 03 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/aquatic-invertebrate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IRBAS Database</title>
+      <link>https://frbcesab.github.io/post/irbas/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/irbas/</guid>
+      <description>&lt;p&gt;An online database to collate, analyze, and synthesize data on the biodiversity and ecology of intermittent rivers worldwide. The IRBAS database currently (in 2017) houses over 2,000 data samples collected from six countries across three continents, primarily describing aquatic invertebrate taxa inhabiting intermittent rivers during flowing hydrological phases.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/irbas/&#34;&gt;&lt;strong&gt;IRBAS&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
