@@ -20,4 +20,8 @@ This work is part of the CESAB working group [**RAINBIO**](https://www.fondation
 
 <!--more-->
 
-**For further information:** Dauby G, Zaiss R, Blach-Overgaard A, _et al._ (2016) RAINBIO: A mega-database of tropical African vascular plants distributions. _PhytoKeys_, **74**, 1-18. DOI: [10.3897/phytokeys.74.9723](https://doi.org/10.3897/phytokeys.74.9723).
+<br />
+<hr />
+
+**References**
+- Dauby G, Zaiss R, Blach-Overgaard A, _et al._ (2016) RAINBIO: A mega-database of tropical African vascular plants distributions. _PhytoKeys_, **74**, 1-18. DOI: [10.3897/phytokeys.74.9723](https://doi.org/10.3897/phytokeys.74.9723).

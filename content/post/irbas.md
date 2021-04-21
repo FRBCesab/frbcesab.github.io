@@ -20,4 +20,9 @@ This work is part of the CESAB working group [**IRBAS**](https://www.fondationbi
 
 <!--more-->
 
-**For further information:** Leigh C, Laporte B, Bonada N, _et al._ (2017) IRBAS: An online database to collate, analyze, and synthesize data on the biodiversity and ecology of intermittent rivers worldwide. _Ecology and Evolution_, **7**, 815-823. DOI: [10.1002/ece3.2679](https://doi.org/10.1002/ece3.2679).
+<br />
+<hr />
+
+**References**
+
+- Leigh C, Laporte B, Bonada N, _et al._ (2017) IRBAS: An online database to collate, analyze, and synthesize data on the biodiversity and ecology of intermittent rivers worldwide. _Ecology and Evolution_, **7**, 815-823. DOI: [10.1002/ece3.2679](https://doi.org/10.1002/ece3.2679).

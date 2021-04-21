@@ -21,4 +21,8 @@ This work is part of the CESAB working group [**WOODIV**](https://www.fondationb
 
 <!--more-->
 
-**For further information:** Monnet A-C, Cilleros K, Médail F, _et al._ (2021) WOODIV, a database of occurrences, functional traits, and phylogenetic data for all Euro-Mediterranean trees. _Scientific Data_, **8**, 89. DOI: [10.1038/s41597-021-00873-3](https://doi.org/10.1038/s41597-021-00873-3).
+<br />
+<hr />
+
+**References**
+- Monnet A-C, Cilleros K, Médail F, _et al._ (2021) WOODIV, a database of occurrences, functional traits, and phylogenetic data for all Euro-Mediterranean trees. _Scientific Data_, **8**, 89. DOI: [10.1038/s41597-021-00873-3](https://doi.org/10.1038/s41597-021-00873-3).

@@ -22,6 +22,11 @@ This work is part of the CESAB working group [**RAATD**](https://www.fondationbi
 
 <!--more-->
 
-**For further information:** Ropert-Coudert Y, Van de Putte AP, Reisinger RR, _et al._ (2020) The Retrospective Analysis of Antarctic Tracking Data project. _Scientific Data_, **7**, 94. DOI: [10.1038/s41597-020-0406-x](https://doi.org/10.1038/s41597-020-0406-x).
-
 R code to analyze RAATD database available on &nbsp;[<i class="fab fa-github fa-lg"></i>](https://github.com/SCAR/RAATD)
+
+<br />
+<hr />
+
+**References**
+- Hindell MA, Reisinger RR, Ropert-Coudert Y, _et al._ (2020) Tracking of marine predators to protect Southern Ocean ecosystems. _Nature_, **580**, 87–92. DOI: [10.1038/s41586-020-2126-y](https://doi.org/10.1038/s41586-020-2126-y).
+- Ropert-Coudert Y, Van de Putte AP, Reisinger RR, _et al._ (2020) The Retrospective Analysis of Antarctic Tracking Data project. _Scientific Data_, **7**, 94. DOI: [10.1038/s41597-020-0406-x](https://doi.org/10.1038/s41597-020-0406-x).
