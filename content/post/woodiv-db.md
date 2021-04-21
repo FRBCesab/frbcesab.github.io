@@ -6,7 +6,7 @@ available:
   website: "https://figshare.com/articles/dataset/WOODIV_a_database_of_occurrences_functional_traits_and_phylogenetic_data_for_all_Euro-Mediterranean_trees/13952897/2"
 contact:
   name: Anne-Christine Monnet
-  url: "https://annechristinemonnet.wordpress.com/"
+  url: "https://annechristinemonnet.wordpress.com"
 tags:
 - databases
 - mediterranean-trees

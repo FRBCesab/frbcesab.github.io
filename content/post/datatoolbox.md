@@ -4,10 +4,10 @@ title: Course on reproducibility
 subtitle: Data toolbox for reproducible research in computational ecology
 available:
   github: https://github.com/frbcesab/datatoolbox
-  website: "https://frbcesab.github.io/datatoolbox/"
+  website: "https://frbcesab.github.io/datatoolbox"
 contact:
   name: Nicolas Casajus
-  url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus/"
+  url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
 tags:
 - courses
 - reproducibility

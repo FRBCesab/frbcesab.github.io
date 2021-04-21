@@ -5,7 +5,7 @@ subtitle: Computes parameters used in preliminary assessment of conservation sta
 available:
   cran: "https://cran.r-project.org/package=ConR"
   github: "https://github.com/gdauby/conR"
-  website: "https://gdauby.github.io/ConR/"
+  website: "https://gdauby.github.io/ConR"
 contact:
   name: Gilles Dauby
   url: "https://www.researchgate.net/profile/Gilles-Dauby"

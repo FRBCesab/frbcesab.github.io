@@ -5,10 +5,10 @@ subtitle: An R package to characterize functional rarity
 available:
   cran: "https://cran.r-project.org/package=funrar"
   github: "https://github.com/Rekyt/funrar"
-  website: "https://rekyt.github.io/funrar/"
+  website: "https://rekyt.github.io/funrar"
 contact:
   name: Matthias Grenié
-  url: "https://rekyt.github.io/"
+  url: "https://rekyt.github.io"
 tags:
 - r-packages
 - cran

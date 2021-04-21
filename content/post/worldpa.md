@@ -7,7 +7,7 @@ available:
   website: "https://frbcesab.github.io/worldpa"
 contact:
   name: Nicolas Casajus
-  url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus/"
+  url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
 tags:
 - r-packages
 - api
