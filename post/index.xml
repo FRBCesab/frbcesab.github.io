@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>&lt;p&gt;Since 2019 the FRB-CESAB and the &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34;&gt;&lt;strong&gt;GDR EcoStat&lt;/strong&gt;&lt;/a&gt; organize
-the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rcompendium</title>
       <link>https://frbcesab.github.io/post/rcompendium/</link>
@@ -41,6 +31,26 @@ instead of wasting time organizing files.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Course on reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>&lt;p&gt;Since 2019 the FRB-CESAB and the &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34;&gt;&lt;strong&gt;GDR EcoStat&lt;/strong&gt;&lt;/a&gt; organize
+the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RAATD Database</title>
+      <link>https://frbcesab.github.io/post/raatd/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/raatd/</guid>
+      <description>&lt;p&gt;The RAATD project consolidated tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. These datasets constitute the compiled tracking data from over 70 contributors across 12 national Antarctic programs, and includes data from 17 predator species, 4060 individual animals, and over 2.9 million observed locations.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/raatd/&#34;&gt;&lt;strong&gt;RAATD&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>worldpa</title>
       <link>https://frbcesab.github.io/post/worldpa/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -60,6 +70,16 @@ based on functional traits. It allows to verify accepted taxonomic nomenclature 
 phytoplankton species, assign species to functional group classifications, and
 manipulate taxonomic and functional diversity data.&lt;/p&gt;
 &lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/geisha/&#34;&gt;&lt;strong&gt;GEISHA&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RAINBIO Database</title>
+      <link>https://frbcesab.github.io/post/rainbio/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/rainbio/</guid>
+      <description>&lt;p&gt;The RAINBIO mega database contains high quality georeferenced occurrences of vascular plants from sub-Saharan tropical Africa. It is a compilation of thirteen public and non-public databases made available under the RAINBIO project funded by CESAB. The database was filtered, quality-checked and verified by the CESAB RAINBIO Consortium. The database holds 610,117 georeferenced occurrences for 25,356 species of vascular plants and 29,659 taxa (including subspecies and varieties), 3,158 genera, and 273 families.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/rainbio/&#34;&gt;&lt;strong&gt;RAINBIO&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

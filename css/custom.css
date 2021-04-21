@@ -96,7 +96,13 @@ nav, .navbar, .navbar-default, .navbar-fixed-top, .navbar-custom,
   font-style: normal;
 }
 
-.gh {
-  /* margin: 12px 12px 12px 30px; */
-  /* font-size: 20px; */
+a.post-read-more {
+  color: #444;
+}
+
+a.post-read-more:hover,
+a.post-read-more:focus {
+  color: #0085a1;
+  border-radius: 0px;
+  background-color: transparent;
 }

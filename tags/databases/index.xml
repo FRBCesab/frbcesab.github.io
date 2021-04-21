@@ -18,5 +18,25 @@
 &lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/woodiv/&#34;&gt;&lt;strong&gt;WOODIV&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>RAATD Database</title>
+      <link>https://frbcesab.github.io/post/raatd/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/raatd/</guid>
+      <description>&lt;p&gt;The RAATD project consolidated tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. These datasets constitute the compiled tracking data from over 70 contributors across 12 national Antarctic programs, and includes data from 17 predator species, 4060 individual animals, and over 2.9 million observed locations.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/raatd/&#34;&gt;&lt;strong&gt;RAATD&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RAINBIO Database</title>
+      <link>https://frbcesab.github.io/post/rainbio/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/rainbio/</guid>
+      <description>&lt;p&gt;The RAINBIO mega database contains high quality georeferenced occurrences of vascular plants from sub-Saharan tropical Africa. It is a compilation of thirteen public and non-public databases made available under the RAINBIO project funded by CESAB. The database was filtered, quality-checked and verified by the CESAB RAINBIO Consortium. The database holds 610,117 georeferenced occurrences for 25,356 species of vascular plants and 29,659 taxa (including subspecies and varieties), 3,158 genera, and 273 families.&lt;/p&gt;
+&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/rainbio/&#34;&gt;&lt;strong&gt;RAINBIO&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
