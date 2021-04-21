@@ -314,5 +314,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>reef-fish</title>
+      <link>https://frbcesab.github.io/tags/reef-fish/</link>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/reef-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tropical-ocean</title>
+      <link>https://frbcesab.github.io/tags/tropical-ocean/</link>
+      <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/tropical-ocean/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
