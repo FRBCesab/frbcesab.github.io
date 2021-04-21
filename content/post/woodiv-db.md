@@ -1,5 +1,5 @@
 ---
-date: "2021-02-34"
+date: "2021-02-23"
 title: WOODIV Database
 subtitle: A database of occurrences, functional traits, and phylogenetic data for all Euro-Mediterranean trees
 available:
