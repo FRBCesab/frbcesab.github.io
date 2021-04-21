@@ -6,11 +6,12 @@
     <description>Recent content in occurrences on FRB-CESAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
-    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster><atom:link href="https://frbcesab.github.io/tags/occurrences/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/occurrences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WOODIV Database</title>
       <link>https://frbcesab.github.io/post/woodiv-db/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/woodiv-db/</guid>
       <description>&lt;p&gt;The WOODIV database provides reliable occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (INSPIRE-compliant 10 × 10 km grid).&lt;/p&gt;
