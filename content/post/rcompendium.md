@@ -2,6 +2,7 @@
 date: "2021-04-17"
 title: rcompendium
 subtitle: Makes easier the creation of R package or research compendium
+image: "https://raw.githubusercontent.com/FRBCesab/rcompendium/main/man/figures/hexsticker.png"
 available:
   cran: "https://cran.r-project.org/package=rcompendium"
   github: "https://github.com/frbcesab/rcompendium"
