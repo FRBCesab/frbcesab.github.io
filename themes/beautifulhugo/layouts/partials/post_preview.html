@@ -51,12 +51,7 @@
 
         <div class="col-lg-8 col-md-10 col-offset-1">
 
-          {{ if .Truncated }}
           {{ .Params.Summary }}
-<!--          <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a> -->
-          {{ else }}
-          {{ .Content }}
-          {{ end }}
 
           {{ if .Params.tags }}
           <div class="blog-tags" style="padding-top: 15px;">
