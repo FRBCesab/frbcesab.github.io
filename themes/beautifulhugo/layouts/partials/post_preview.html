@@ -42,27 +42,30 @@
     <div class="post-entry" class="container">
       <div class="row">
         <div class="col-lg-3 col-md-1">
+
           {{ if .Params.image }}
           <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title"/>
           {{ end }}
+
         </div>
         <div class="col">
+
           {{ if .Truncated }}
           {{ .Summary }}
           <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
           {{ else }}
           {{ .Content }}
           {{ end }}
+
+          {{ if .Params.tags }}
+          <div class="blog-tags">
+              {{ range .Params.tags }}
+              <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+              {{ end }}
+          </div>
+          {{ end }}
+          
         </div>
       </div>
     </div>
-
-    {{ if .Params.tags }}
-    <div class="blog-tags">
-        {{ range .Params.tags }}
-        <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
-        {{ end }}
-    </div>
-    {{ end }}
-
 </article>
