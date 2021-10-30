@@ -108,6 +108,7 @@ a.post-read-more:focus {
 }
 
 .blog-post {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /* font-family: 'Lora', 'Times New Roman', serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
