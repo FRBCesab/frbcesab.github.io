@@ -6,9 +6,6 @@
             {{ .Params.subtitle }}
         </h3>
         {{ end }}
-        {{ if .Params.image }}
-        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" />
-        {{ end }}
         {{ if .Params.video }}
         <video loop autoplay muted playsinline class="img-title">
             <source src="{{ .Params.video }}">
@@ -43,6 +40,9 @@
     {{ end }}
 
     <div class="post-entry">
+        {{ if .Params.image }}
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-title" width="20%"/>
+        {{ end }}
         {{ if .Truncated }}
         {{ .Summary }}
         <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
