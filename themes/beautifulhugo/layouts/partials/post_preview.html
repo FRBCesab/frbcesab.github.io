@@ -49,7 +49,7 @@
 
         </div>
 
-        <div class="col col-offset-1">
+        <div class="col-lg-8 col-md-10 col-offset-1">
 
           {{ if .Truncated }}
           {{ .Summary }}
@@ -59,8 +59,7 @@
           {{ end }}
 
           {{ if .Params.tags }}
-          <div class="blog-tags">
-              <br />
+          <div class="blog-tags" style="padding-top: 15px;">
               {{ range .Params.tags }}
               <a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
               {{ end }}
