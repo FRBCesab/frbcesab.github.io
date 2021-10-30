@@ -1,7 +1,8 @@
 ---
-date: "2020-11-02"
+date: "2021-11-29"
 title: Course on reproducibility
 subtitle: Data toolbox for reproducible research in computational ecology
+image: /img/datatoolbox-logo.png
 available:
   github: https://github.com/frbcesab/datatoolbox
   website: "https://frbcesab.github.io/datatoolbox"
