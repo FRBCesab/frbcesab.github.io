@@ -1,6 +1,3 @@
-.blog-post {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
 /*
 body {
   background-color: #232425;
@@ -108,4 +105,9 @@ a.post-read-more:focus {
   color: #0085a1;
   border-radius: 0px;
   background-color: transparent;
+}
+
+.blog-post {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
