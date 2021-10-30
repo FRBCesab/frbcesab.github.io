@@ -2,6 +2,7 @@
 date: "2020-01-15"
 title: worldpa
 subtitle: An R client to the World Database on Protected Areas API
+image: "https://raw.githubusercontent.com/FRBCesab/worldpa/master/man/figures/hexsticker.png"
 available:
   github: "https://github.com/frbcesab/worldpa"
   website: "https://frbcesab.github.io/worldpa"
