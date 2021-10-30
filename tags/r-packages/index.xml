@@ -14,10 +14,7 @@
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/rcompendium/</guid>
-      <description>&lt;p&gt;The aim of the package &lt;code&gt;rcompendium&lt;/code&gt; is to make easier the creation of
-R package or research compendium
-(i.e. a predefined files/folders structure) so that users can focus on the code
-instead of wasting time organizing files.&lt;/p&gt;</description>
+      <description>The aim of the package &lt;code&gt;rcompendium&lt;/code&gt; is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files.</description>
     </item>
     
     <item>
