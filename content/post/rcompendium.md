@@ -10,7 +10,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
-summary: The aim of the package <code>rcompendium</code> is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files.
+summary: The aim of the package <span>rcompendium</code> is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files.
 tags:
 - r-packages
 - cran
