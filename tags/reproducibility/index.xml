@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course on reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>&lt;p&gt;Since 2019 the FRB-CESAB and the &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34;&gt;&lt;strong&gt;GDR EcoStat&lt;/strong&gt;&lt;/a&gt; organize
+the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>rcompendium</title>
       <link>https://frbcesab.github.io/post/rcompendium/</link>
@@ -18,16 +28,6 @@
 R package or research compendium
 (i.e. a predefined files/folders structure) so that users can focus on the code
 instead of wasting time organizing files.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>&lt;p&gt;Since 2019 the FRB-CESAB and the &lt;a href=&#34;https://sites.google.com/site/gdrecostat/&#34;&gt;&lt;strong&gt;GDR EcoStat&lt;/strong&gt;&lt;/a&gt; organize
-the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
     </item>
     
   </channel>
