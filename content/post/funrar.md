@@ -2,6 +2,7 @@
 date: "2016-07-15"
 title: funrar
 subtitle: An R package to characterize functional rarity
+image: /img/rpackage-sticker.png
 available:
   cran: "https://cran.r-project.org/package=funrar"
   github: "https://github.com/Rekyt/funrar"

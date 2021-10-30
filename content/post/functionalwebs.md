@@ -2,6 +2,7 @@
 date: "2018-03-16"
 title: FUNCTIONALWEBS Database
 subtitle: "Functional traits of aquatic invertebrates in tank bromeliads"
+image: /img/database-sticker.png
 available:
   website: "https://doi.org/10.5063/F1VD6WMF"
 contact:

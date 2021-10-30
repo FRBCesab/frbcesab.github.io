@@ -2,6 +2,7 @@
 date: "2016-10-31"
 title: ConR
 subtitle: Computes parameters used in preliminary assessment of conservation status
+image: /img/rpackage-sticker.png
 available:
   cran: "https://cran.r-project.org/package=ConR"
   github: "https://github.com/gdauby/conR"

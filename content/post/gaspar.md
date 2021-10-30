@@ -2,6 +2,7 @@
 date: "2013-04-30"
 title: GASPAR Database
 subtitle: "A global distribution of tropical reef fishes"
+image: /img/database-sticker.png
 contact:
   name: Valeriano Parravicini
   url: "http://www.criobe.pf/pro/personnel/chercheurs-et-enseignants-chercheurs/valeriano-parravicini"

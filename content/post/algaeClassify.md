@@ -2,6 +2,7 @@
 date: "2019-05-20"
 title: algaeClassify
 subtitle: An R package to determine phytoplankton functional groups
+image: /img/database-sticker.png
 available:
   cran: "https://cran.r-project.org/package=algaeClassify"
 contact:

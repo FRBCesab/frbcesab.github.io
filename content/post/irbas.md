@@ -2,6 +2,7 @@
 date: "2017-01-03"
 title: IRBAS Database
 subtitle: "Intermittent Rivers Biodiversity Analysis and Synthesis"
+image: /img/database-sticker.png
 available:
   website: "http://irbas.inrae.fr/contribute-n-and-access-data/how-explore-irbas-database"
 contact:

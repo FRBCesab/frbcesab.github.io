@@ -2,6 +2,7 @@
 date: "2016-11-07"
 title: RAINBIO Database
 subtitle: "A mega-database of tropical African vascular plants distributions"
+image: /img/database-sticker.png
 available:
   website: "http://rainbio.cesab.org/index.html#dataset"
 contact:

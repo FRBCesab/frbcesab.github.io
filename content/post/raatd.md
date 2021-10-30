@@ -2,6 +2,7 @@
 date: "2020-03-18"
 title: RAATD Database
 subtitle: "Retrospective Analysis of Antarctic Tracking Data"
+image: /img/database-sticker.png
 available:
   website: "https://data.aad.gov.au/metadata/records/SCAR_EGBAMM_RAATD_2018_Standardised"
 contact:
