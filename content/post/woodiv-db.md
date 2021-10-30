@@ -2,6 +2,7 @@
 date: "2021-02-23"
 title: WOODIV Database
 subtitle: A database of occurrences, functional traits, and phylogenetic data for all Euro-Mediterranean trees
+image: /img/database-sticker.png
 available:
   website: https://figshare.com/articles/dataset/WOODIV_a_database_of_occurrences_functional_traits_and_phylogenetic_data_for_all_Euro-Mediterranean_trees/13952897/2
 contact:
