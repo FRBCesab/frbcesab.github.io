@@ -52,7 +52,7 @@
         <div class="col-lg-8 col-md-10 col-offset-1">
 
           {{ if .Truncated }}
-          {{ .Summary }}
+          {{ .Params.Summary }}
 <!--          <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a> -->
           {{ else }}
           {{ .Content }}
