@@ -9,7 +9,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
-summary: The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, rmarkdown, tidyverse, docker, renv), applied to biodiversity research.
+summary: The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.
 tags:
 - courses
 - reproducibility
@@ -24,9 +24,9 @@ tags:
 ---
 
 Since 2019 the FRB-CESAB and the [**GdR EcoStat**](https://sites.google.com/site/gdrecostat/) organize
-the training course _Data Toolbox for Reproducible Research in Computational Ecology_. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, `git`, `rmarkdown`, `tidyverse`, `docker`, `renv`), applied to biodiversity research.
+the training course _Data Toolbox for Reproducible Research in Computational Ecology_. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. `R`, `git`, `rmarkdown`, `tidyverse`, `docker`, `renv`), applied to biodiversity research.
 
-The 2021 program is available [here](https://frbcesab.github.io/datatoolbox).
+The 2021 program is available [here](https://frbcesab.github.io/datatoolbox/#programme).
 
 
 **Speakers:**&nbsp;
