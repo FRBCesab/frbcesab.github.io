@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>popbayes</title>
+      <link>https://frbcesab.github.io/post/popbayes/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/popbayes/</guid>
+      <description>Infers trends of one or several populations over time from series of counts. It does so by accounting for count precision, smoothing the population rate of increase over time, and accounting for the maximum demographic potential of species. Inference is carried out in a Bayesian framework.</description>
+    </item>
+    
+    <item>
       <title>rcompendium</title>
       <link>https://frbcesab.github.io/post/rcompendium/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
