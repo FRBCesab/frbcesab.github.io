@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>development on FRB-CESAB</title>
-    <link>https://frbcesab.github.io/tags/development/</link>
-    <description>Recent content in development on FRB-CESAB</description>
+    <title>github on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/github/</link>
+    <description>Recent content in github on FRB-CESAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rcompendium</title>
       <link>https://frbcesab.github.io/post/rcompendium/</link>

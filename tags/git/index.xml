@@ -18,5 +18,14 @@
 the training course &lt;em&gt;Data Toolbox for Reproducible Research in Computational Ecology&lt;/em&gt;. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. R, git, markdown, tidyverse, docker), applied to biodiversity research.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>rcompendium</title>
+      <link>https://frbcesab.github.io/post/rcompendium/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/rcompendium/</guid>
+      <description>The aim of this package is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files. A full ready-to-work structure is set up with some additional cool features.</description>
+    </item>
+    
   </channel>
 </rss>

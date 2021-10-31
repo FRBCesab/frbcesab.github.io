@@ -57,13 +57,13 @@
     "name" : "FRB-CESAB"
   },
   "headline": "rcompendium",
-  "description" : "The aim of the package rcompendium is to make easier the creation of R package or research compendium (i.e. a predefined files\/folders structure) so that users can focus on the code instead of wasting time organizing files.",
+  "description" : "The aim of this package is to make easier the creation of R package or research compendium (i.e. a predefined files\/folders structure) so that users can focus on the code instead of wasting time organizing files. A full ready-to-work structure is set up with some additional cool features.",
   "inLanguage" : "en",
-  "wordCount":  5 ,
+  "wordCount":  189 ,
   "datePublished" : "2021-04-17T00:00:00",
   "dateModified" : "2021-04-17T00:00:00",
   "image" : "https:\/\/frbcesab.github.io\/img\/avatar-icon.png",
-  "keywords" : [ "r-packages, cran, development, compendium, reproducibility" ],
+  "keywords" : [ "r-packages, cran, development, compendium, reproducibility, git, github" ],
   "mainEntityOfPage" : "https:\/\/frbcesab.github.io\/post\/rcompendium\/",
   "publisher" : {
     "@type": "Organization",
@@ -320,13 +320,33 @@
             
           </div>
           <div class="col-lg-9 col-md-10">
-            The aim of the package rcompendium is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files.
+            The aim of this package is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files. A full ready-to-work structure is set up with some additional cool features.
           </div>
         </div>
 
         <br /><br />
 
-        <p>More information will come soon&hellip;</p>
+        <p>In the area of open science, making reproducible analyses is a strong prerequisite. But sometimes it is difficult 1) to find the good structure to organize files and 2) to set up the whole project. The aim of the package <code>rcompendium</code> is to make easier the creation of R package/research compendium (i.e. a predefined files/folders structure) so that users can focus on the code/analysis instead of wasting time organizing files.</p>
+<p>A full ready-to-work structure will be set up with the following features:</p>
+<ul>
+<li>Initialization of the <a href="https://git-scm.com/">GIT</a> version control.</li>
+<li>Creation of a minimal R package structure (<code>DESCRIPTION</code> and <code>NAMESPACE</code> files, and <code>R/</code> and <code>man/</code> folders).</li>
+<li>Creation of additional files (<code>LICENSE.md</code>, <code>inst/CITATION</code>, etc.).</li>
+<li>Creation of a <em>Get started</em> vignette in <code>vignettes/</code>.</li>
+<li>Setting the units tests process.</li>
+<li>Creation of a <code>README.Rmd</code> with HexSticker (template) and badges.</li>
+<li>Autocompletion of maintainer information.</li>
+<li>Creation of a GitHub repository.</li>
+<li>Configuration of GitHub Actions to automatically:
+<ul>
+<li>check and test package (<code>R CMD Check</code>);</li>
+<li>report the code coverage (<code>covr</code>);</li>
+<li>build and deploy website (<code>pkgdown</code>).</li>
+</ul>
+</li>
+</ul>
+<p>This package heavily relies on the R packages <a href="https://devtools.r-lib.org"><code>devtools</code></a> and
+<a href="https://usethis.r-lib.org"><code>usethis</code></a> and follows recommendations made by <a href="https://r-pkgs.org">Hadley Wickham &amp; Jenny Bryan</a> and <a href="https://peerj.com/preprints/3192/">Ben Marwick</a>.</p>
 
 
         <br />
@@ -343,6 +363,10 @@
               <a href="https://frbcesab.github.io/tags/compendium/">compendium</a>&nbsp;
             
               <a href="https://frbcesab.github.io/tags/reproducibility/">reproducibility</a>&nbsp;
+            
+              <a href="https://frbcesab.github.io/tags/git/">git</a>&nbsp;
+            
+              <a href="https://frbcesab.github.io/tags/github/">github</a>&nbsp;
             
           </div>
         
