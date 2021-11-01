@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>mFD</title>
+      <link>https://frbcesab.github.io/post/mfd/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/mfd/</guid>
+      <description>Computing functional traits-based distances between pairs of species for species gathered in assemblages allowing to build several functional spaces. The package includes different graphical outputs.</description>
+    </item>
+    
+    <item>
       <title>popbayes</title>
       <link>https://frbcesab.github.io/post/popbayes/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
