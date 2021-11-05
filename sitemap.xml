@@ -2,85 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frbcesab.github.io/tags/compendium/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/post/datatoolbox/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/courses/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/docker/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/git/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/github/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/post/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/r-packages/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/renv/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/reproducibility/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/rmarkdown/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/targets/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://frbcesab.github.io/tags/animal-population/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/bayesian/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/communities/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/cran/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frbcesab.github.io/tags/diversity-indices/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/ecology/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc>https://frbcesab.github.io/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/individual-counts/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/post/mfd/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/post/popbayes/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/post/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/r-packages/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/temporal-trend/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://frbcesab.github.io/tags/traits/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <loc>https://frbcesab.github.io/tags/compendium/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/development/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://frbcesab.github.io/tags/git/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/github/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://frbcesab.github.io/post/rcompendium/</loc>
+    <lastmod>2021-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/reproducibility/</loc>
     <lastmod>2021-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/databases/</loc>
@@ -95,8 +62,29 @@
     <loc>https://frbcesab.github.io/tags/phylogeny/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://frbcesab.github.io/tags/traits/</loc>
+    <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://frbcesab.github.io/post/woodiv-db/</loc>
     <lastmod>2021-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/post/datatoolbox/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/courses/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/docker/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/renv/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/rmarkdown/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/targets/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/antarctic/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
@@ -129,6 +117,9 @@
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/post/algaeclassify/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/ecology/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/phytoplankton/</loc>
@@ -196,6 +187,15 @@
   </url><url>
     <loc>https://frbcesab.github.io/tags/tropical-ocean/</loc>
     <lastmod>2013-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/communities/</loc>
+    <lastmod>1990-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/diversity-indices/</loc>
+    <lastmod>1990-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/post/mfd/</loc>
+    <lastmod>1990-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/categories/</loc>
   </url>

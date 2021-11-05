@@ -7,29 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
-    </item>
-    
-    <item>
-      <title>mFD</title>
-      <link>https://frbcesab.github.io/post/mfd/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/mfd/</guid>
-      <description>Computing functional traits-based distances between pairs of species for species gathered in assemblages allowing to build several functional spaces. The package includes different graphical outputs.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>popbayes</title>
       <link>https://frbcesab.github.io/post/popbayes/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/popbayes/</guid>
       <description>Infers trends of one or several populations over time from series of counts. It does so by accounting for count precision, smoothing the population rate of increase over time, and accounting for the maximum demographic potential of species.</description>
@@ -52,6 +34,15 @@
       <guid>https://frbcesab.github.io/post/woodiv-db/</guid>
       <description>&lt;p&gt;The WOODIV database provides reliable occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (INSPIRE-compliant 10 × 10 km grid).&lt;/p&gt;
 &lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/woodiv/&#34;&gt;&lt;strong&gt;WOODIV&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Course on reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
     </item>
     
     <item>
@@ -148,6 +139,15 @@ Various indices can be computed using both regional and local information.&lt;/p
       <guid>https://frbcesab.github.io/post/gaspar/</guid>
       <description>&lt;p&gt;The program GASPAR built a database on the global distribution of tropical reef fishes, based on 169 checklists spread across all tropical oceans. For each of the 6,316 species information on seven life-history traits were also collected. The database will be released soon.&lt;/p&gt;
 &lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/gaspar/&#34;&gt;&lt;strong&gt;GASPAR&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>mFD</title>
+      <link>https://frbcesab.github.io/post/mfd/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/mfd/</guid>
+      <description>Computing functional traits-based distances between pairs of species for species gathered in assemblages allowing to build several functional spaces. The package includes different graphical outputs.</description>
     </item>
     
   </channel>

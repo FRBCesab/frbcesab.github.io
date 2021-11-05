@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 17 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rcompendium</title>
       <link>https://frbcesab.github.io/post/rcompendium/</link>
@@ -24,6 +15,15 @@
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/rcompendium/</guid>
       <description>The aim of this package is to make easier the creation of R package or research compendium (i.e. a predefined files/folders structure) so that users can focus on the code instead of wasting time organizing files. A full ready-to-work structure is set up with some additional cool features.</description>
+    </item>
+    
+    <item>
+      <title>Course on reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
     </item>
     
   </channel>

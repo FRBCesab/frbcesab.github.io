@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>popbayes</title>
       <link>https://frbcesab.github.io/post/popbayes/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/popbayes/</guid>
       <description>Infers trends of one or several populations over time from series of counts. It does so by accounting for count precision, smoothing the population rate of increase over time, and accounting for the maximum demographic potential of species.</description>

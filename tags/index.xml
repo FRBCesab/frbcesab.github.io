@@ -7,101 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>compendium</title>
-      <link>https://frbcesab.github.io/tags/compendium/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/compendium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>courses</title>
-      <link>https://frbcesab.github.io/tags/courses/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>https://frbcesab.github.io/tags/docker/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://frbcesab.github.io/tags/git/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://frbcesab.github.io/tags/github/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>r-packages</title>
-      <link>https://frbcesab.github.io/tags/r-packages/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/r-packages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>renv</title>
-      <link>https://frbcesab.github.io/tags/renv/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/renv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reproducibility</title>
-      <link>https://frbcesab.github.io/tags/reproducibility/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/reproducibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rmarkdown</title>
-      <link>https://frbcesab.github.io/tags/rmarkdown/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/rmarkdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>targets</title>
-      <link>https://frbcesab.github.io/tags/targets/</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/targets/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>animal-population</title>
       <link>https://frbcesab.github.io/tags/animal-population/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/animal-population/</guid>
       <description></description>
@@ -110,72 +20,54 @@
     <item>
       <title>bayesian</title>
       <link>https://frbcesab.github.io/tags/bayesian/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>communities</title>
-      <link>https://frbcesab.github.io/tags/communities/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/communities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cran</title>
       <link>https://frbcesab.github.io/tags/cran/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/cran/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>diversity-indices</title>
-      <link>https://frbcesab.github.io/tags/diversity-indices/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/diversity-indices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecology</title>
-      <link>https://frbcesab.github.io/tags/ecology/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>individual-counts</title>
       <link>https://frbcesab.github.io/tags/individual-counts/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/individual-counts/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>r-packages</title>
+      <link>https://frbcesab.github.io/tags/r-packages/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/r-packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>temporal-trend</title>
       <link>https://frbcesab.github.io/tags/temporal-trend/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/temporal-trend/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>traits</title>
-      <link>https://frbcesab.github.io/tags/traits/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <title>compendium</title>
+      <link>https://frbcesab.github.io/tags/compendium/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/traits/</guid>
+      <guid>https://frbcesab.github.io/tags/compendium/</guid>
       <description></description>
     </item>
     
@@ -185,6 +77,33 @@
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://frbcesab.github.io/tags/git/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://frbcesab.github.io/tags/github/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>https://frbcesab.github.io/tags/reproducibility/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/reproducibility/</guid>
       <description></description>
     </item>
     
@@ -221,6 +140,60 @@
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/phylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traits</title>
+      <link>https://frbcesab.github.io/tags/traits/</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/traits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>https://frbcesab.github.io/tags/courses/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://frbcesab.github.io/tags/docker/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renv</title>
+      <link>https://frbcesab.github.io/tags/renv/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/renv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>https://frbcesab.github.io/tags/rmarkdown/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>targets</title>
+      <link>https://frbcesab.github.io/tags/targets/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/targets/</guid>
       <description></description>
     </item>
     
@@ -293,6 +266,15 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>https://frbcesab.github.io/tags/ecology/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/ecology/</guid>
       <description></description>
     </item>
     
@@ -437,6 +419,24 @@
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/tropical-ocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communities</title>
+      <link>https://frbcesab.github.io/tags/communities/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversity-indices</title>
+      <link>https://frbcesab.github.io/tags/diversity-indices/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/diversity-indices/</guid>
       <description></description>
     </item>
     
