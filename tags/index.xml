@@ -27,11 +27,38 @@
     </item>
     
     <item>
+      <title>communities</title>
+      <link>https://frbcesab.github.io/tags/communities/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cran</title>
       <link>https://frbcesab.github.io/tags/cran/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/cran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversity-indices</title>
+      <link>https://frbcesab.github.io/tags/diversity-indices/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/diversity-indices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>https://frbcesab.github.io/tags/ecology/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/ecology/</guid>
       <description></description>
     </item>
     
@@ -59,6 +86,15 @@
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/temporal-trend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traits</title>
+      <link>https://frbcesab.github.io/tags/traits/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/tags/traits/</guid>
       <description></description>
     </item>
     
@@ -140,15 +176,6 @@
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/phylogeny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>traits</title>
-      <link>https://frbcesab.github.io/tags/traits/</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/traits/</guid>
       <description></description>
     </item>
     
@@ -266,15 +293,6 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/spatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecology</title>
-      <link>https://frbcesab.github.io/tags/ecology/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/ecology/</guid>
       <description></description>
     </item>
     
@@ -419,24 +437,6 @@
       <pubDate>Tue, 30 Apr 2013 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/tags/tropical-ocean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>communities</title>
-      <link>https://frbcesab.github.io/tags/communities/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/communities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diversity-indices</title>
-      <link>https://frbcesab.github.io/tags/diversity-indices/</link>
-      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/tags/diversity-indices/</guid>
       <description></description>
     </item>
     
