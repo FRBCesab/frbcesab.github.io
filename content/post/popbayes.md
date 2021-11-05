@@ -1,5 +1,5 @@
 ---
-date: "2021-11-10"
+date: "2021-11-05"
 title: popbayes
 subtitle: Bayesian model to estimate population trends from counts series
 image: "https://raw.githubusercontent.com/FRBCesab/popbayes/master/man/figures/hexsticker.png"
