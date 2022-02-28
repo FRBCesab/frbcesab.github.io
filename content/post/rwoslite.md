@@ -9,6 +9,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
+summary: An interface for the [Web of Science Lite API](https://developer.clarivate.com/apis/woslite). It allows users to write complexe requests to retrieve scientific publications metatata.
 tags:
 - r-packages
 - api
@@ -16,4 +17,4 @@ tags:
 - scientific-publications
 ---
 
-This R package is an interface for the [WOS Lite API](https://developer.clarivate.com/apis/woslite). Users can write WOS queries and download scientific publications references.
+Read the [README](https://github.com/FRBCesab/rwoslite/blob/main/README.md) for further information.
