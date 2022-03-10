@@ -9,7 +9,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
-summary: The R package `messages` is a collection of functions to print messages in the R console using the packages [`cli`](https://cran.r-project.org/package=cli) and [`crayon`](https://cran.r-project.org/package=crayon). This package is strongly inspired from the functions `ui_*()` of the package [`usethis`](https://cran.r-project.org/package=usethis).
+summary: This R package is a collection of functions to print messages in the R console using the packages 'cli' and 'crayon'. This package is strongly inspired from the functions ui_*() of the package 'usethis'.
 tags:
 - r-packages
 - messages

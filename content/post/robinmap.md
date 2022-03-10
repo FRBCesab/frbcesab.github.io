@@ -9,7 +9,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
-summary: The goal of the R package `robinmap` is to map World countries in the Robinson projection system (or others CRS) centered on a different meridian than Greenwich. It uses the [Natural Earth](https://www.naturalearthdata.com/) layer as a base map.
+summary: The goal of this R package is to map World countries in the Robinson projection system (or others CRS) centered on a different meridian than Greenwich. It uses 'Natural Earth' layers as base maps.
 tags:
 - r-packages
 - spatial

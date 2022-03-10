@@ -9,7 +9,7 @@ available:
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
-summary: An interface for the [Web of Science Lite API](https://developer.clarivate.com/apis/woslite). It allows users to write complexe requests to retrieve scientific publications metatata.
+summary: An interface for the Web of Science Lite API. It allows users to write complexe requests to retrieve scientific publications metatata.
 tags:
 - r-packages
 - api
