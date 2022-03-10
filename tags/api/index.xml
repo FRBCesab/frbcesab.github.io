@@ -14,7 +14,7 @@
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/rwoslite/</guid>
-      <description>An interface for the &lt;a href=&#34;https://developer.clarivate.com/apis/woslite&#34;&gt;Web of Science Lite API&lt;/a&gt;. It allows users to write complexe requests to retrieve scientific publications metatata.</description>
+      <description>An interface for the Web of Science Lite API. It allows users to write complexe requests to retrieve scientific publications metatata.</description>
     </item>
     
     <item>

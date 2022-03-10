@@ -14,7 +14,7 @@
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/robinmap/</guid>
-      <description>The goal of the R package &lt;code&gt;robinmap&lt;/code&gt; is to map World countries in the Robinson projection system (or others CRS) centered on a different meridian than Greenwich. It uses the &lt;a href=&#34;https://www.naturalearthdata.com/&#34;&gt;Natural Earth&lt;/a&gt; layer as a base map.</description>
+      <description>The goal of this R package is to map World countries in the Robinson projection system (or others CRS) centered on a different meridian than Greenwich. It uses &amp;lsquo;Natural Earth&amp;rsquo; layers as base maps.</description>
     </item>
     
   </channel>

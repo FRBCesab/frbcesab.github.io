@@ -14,7 +14,7 @@
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/messages/</guid>
-      <description>The R package &lt;code&gt;messages&lt;/code&gt; is a collection of functions to print messages in the R console using the packages &lt;a href=&#34;https://cran.r-project.org/package=cli&#34;&gt;&lt;code&gt;cli&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/package=crayon&#34;&gt;&lt;code&gt;crayon&lt;/code&gt;&lt;/a&gt;. This package is strongly inspired from the functions &lt;code&gt;ui_*()&lt;/code&gt; of the package &lt;a href=&#34;https://cran.r-project.org/package=usethis&#34;&gt;&lt;code&gt;usethis&lt;/code&gt;&lt;/a&gt;.</description>
+      <description>This R package is a collection of functions to print messages in the R console using the packages &amp;lsquo;cli&amp;rsquo; and &amp;lsquo;crayon&amp;rsquo;. This package is strongly inspired from the functions ui_*() of the package &amp;lsquo;usethis&amp;rsquo;.</description>
     </item>
     
   </channel>
