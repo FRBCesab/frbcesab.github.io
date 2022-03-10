@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>messages on FRB-CESAB</title>
+    <link>https://frbcesab.github.io/tags/messages/</link>
+    <description>Recent content in messages on FRB-CESAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
+    <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
+    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/tags/messages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>messages</title>
+      <link>https://frbcesab.github.io/post/messages/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/messages/</guid>
+      <description>The R package &lt;code&gt;messages&lt;/code&gt; is a collection of functions to print messages in the R console using the packages &lt;a href=&#34;https://cran.r-project.org/package=cli&#34;&gt;&lt;code&gt;cli&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/package=crayon&#34;&gt;&lt;code&gt;crayon&lt;/code&gt;&lt;/a&gt;. This package is strongly inspired from the functions &lt;code&gt;ui_*()&lt;/code&gt; of the package &lt;a href=&#34;https://cran.r-project.org/package=usethis&#34;&gt;&lt;code&gt;usethis&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
+    
+  </channel>
+</rss>

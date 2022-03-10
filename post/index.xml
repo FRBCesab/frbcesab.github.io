@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</managingEditor>
     <webMaster>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</webMaster>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://frbcesab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>robinmap</title>
+      <link>https://frbcesab.github.io/post/robinmap/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/robinmap/</guid>
+      <description>The goal of the R package &lt;code&gt;robinmap&lt;/code&gt; is to map World countries in the Robinson projection system (or others CRS) centered on a different meridian than Greenwich. It uses the &lt;a href=&#34;https://www.naturalearthdata.com/&#34;&gt;Natural Earth&lt;/a&gt; layer as a base map.</description>
+    </item>
+    
+    <item>
+      <title>messages</title>
+      <link>https://frbcesab.github.io/post/messages/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/messages/</guid>
+      <description>The R package &lt;code&gt;messages&lt;/code&gt; is a collection of functions to print messages in the R console using the packages &lt;a href=&#34;https://cran.r-project.org/package=cli&#34;&gt;&lt;code&gt;cli&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/package=crayon&#34;&gt;&lt;code&gt;crayon&lt;/code&gt;&lt;/a&gt;. This package is strongly inspired from the functions &lt;code&gt;ui_*()&lt;/code&gt; of the package &lt;a href=&#34;https://cran.r-project.org/package=usethis&#34;&gt;&lt;code&gt;usethis&lt;/code&gt;&lt;/a&gt;.</description>
+    </item>
+    
     <item>
       <title>rwoslite</title>
       <link>https://frbcesab.github.io/post/rwoslite/</link>

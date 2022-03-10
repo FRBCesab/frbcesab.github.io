@@ -2,25 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://frbcesab.github.io/tags/api/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://frbcesab.github.io/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/post/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/projection-system/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/r-packages/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/post/robinmap/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/spatial/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/world-map/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/colored-console/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/messages/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/post/messages/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://frbcesab.github.io/tags/api/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/post/rwoslite/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/scientific-publications/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/web-of-science/</loc>
@@ -129,9 +150,6 @@
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/tags/protected-areas/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://frbcesab.github.io/tags/spatial/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://frbcesab.github.io/post/worldpa/</loc>
