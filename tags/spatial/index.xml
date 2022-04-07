@@ -23,7 +23,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/worldpa/</guid>
-      <description>The package worldpa is an interface to the World Database on Protected Areas (WDPA) hosted on the Protected planet website. It allows users to download spatial shapefiles of protected areas for world countries using the WDPA API.</description>
+      <description>An interface to the World Database on Protected Areas (WDPA) that allow users to download spatial geometries of protected areas for world countries using the WDPA API &lt;a href=&#34;https://api.protectedplanet.net&#34;&gt;https://api.protectedplanet.net&lt;/a&gt;.</description>
     </item>
     
   </channel>

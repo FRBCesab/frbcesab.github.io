@@ -36,6 +36,15 @@
     </item>
     
     <item>
+      <title>Course on Reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
+    </item>
+    
+    <item>
       <title>mFD</title>
       <link>https://frbcesab.github.io/post/mfd/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
@@ -63,21 +72,12 @@
     </item>
     
     <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
-    </item>
-    
-    <item>
       <title>worldpa</title>
       <link>https://frbcesab.github.io/post/worldpa/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/worldpa/</guid>
-      <description>The package worldpa is an interface to the World Database on Protected Areas (WDPA) hosted on the Protected planet website. It allows users to download spatial shapefiles of protected areas for world countries using the WDPA API.</description>
+      <description>An interface to the World Database on Protected Areas (WDPA) that allow users to download spatial geometries of protected areas for world countries using the WDPA API &lt;a href=&#34;https://api.protectedplanet.net&#34;&gt;https://api.protectedplanet.net&lt;/a&gt;.</description>
     </item>
     
     <item>

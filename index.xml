@@ -36,6 +36,15 @@
     </item>
     
     <item>
+      <title>Course on Reproducibility</title>
+      <link>https://frbcesab.github.io/post/datatoolbox/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
+      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
+      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
+    </item>
+    
+    <item>
       <title>mFD</title>
       <link>https://frbcesab.github.io/post/mfd/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
@@ -68,17 +77,7 @@
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/woodiv-db/</guid>
-      <description>&lt;p&gt;The WOODIV database provides reliable occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (INSPIRE-compliant 10 × 10 km grid).&lt;/p&gt;
-&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/woodiv/&#34;&gt;&lt;strong&gt;WOODIV&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Course on reproducibility</title>
-      <link>https://frbcesab.github.io/post/datatoolbox/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
-      <guid>https://frbcesab.github.io/post/datatoolbox/</guid>
-      <description>The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools applied to biodiversity research.</description>
+      <description>Provides occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (10 × 10 km grid).</description>
     </item>
     
     <item>
@@ -87,8 +86,7 @@
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/raatd/</guid>
-      <description>&lt;p&gt;The RAATD project consolidated tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. These datasets constitute the compiled tracking data from over 70 contributors across 12 national Antarctic programs, and includes data from 17 predator species, 4060 individual animals, and over 2.9 million observed locations.&lt;/p&gt;
-&lt;p&gt;This work is part of the CESAB working group &lt;a href=&#34;https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/raatd/&#34;&gt;&lt;strong&gt;RAATD&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. This dataset is a compilation of data from 12 national Antarctic programs, and including data from 17 predator species, 4,060 individual animals, and over 2.9 million locations.</description>
     </item>
     
     <item>
@@ -97,7 +95,7 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       <author>nicolas.casajus@fondationbiodiversite.fr (FRB-CESAB)</author>
       <guid>https://frbcesab.github.io/post/worldpa/</guid>
-      <description>The package worldpa is an interface to the World Database on Protected Areas (WDPA) hosted on the Protected planet website. It allows users to download spatial shapefiles of protected areas for world countries using the WDPA API.</description>
+      <description>An interface to the World Database on Protected Areas (WDPA) that allow users to download spatial geometries of protected areas for world countries using the WDPA API &lt;a href=&#34;https://api.protectedplanet.net&#34;&gt;https://api.protectedplanet.net&lt;/a&gt;.</description>
     </item>
     
     <item>
