@@ -8,6 +8,7 @@ available:
 contact:
   name: Yan Ropert-Coudert
   url: "https://sites.google.com/view/yan-ropert-coudert/home"
+summary: Tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. This dataset is a compilation of data from 12 national Antarctic programs, and including data from 17 predator species, 4,060 individual animals, and over 2.9 million locations.
 tags:
 - databases
 - antarctic
@@ -17,11 +18,7 @@ tags:
 - seabirds
 ---
 
-The RAATD project consolidated tracking data for multiple species of Antarctic meso- and top-predators to identify Areas of Ecological Significance. These datasets constitute the compiled tracking data from over 70 contributors across 12 national Antarctic programs, and includes data from 17 predator species, 4060 individual animals, and over 2.9 million observed locations.
-
-This work is part of the CESAB working group [**RAATD**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/raatd/)
-
-<!--more-->
+This work is part of the CESAB working group [**RAATD**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/raatd/).
 
 R code to analyze RAATD database available on &nbsp;[<i class="fab fa-github fa-lg"></i>](https://github.com/SCAR/RAATD)
 

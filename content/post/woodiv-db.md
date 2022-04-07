@@ -8,6 +8,7 @@ available:
 contact:
   name: Anne-Christine Monnet
   url: "https://annechristinemonnet.wordpress.com"
+summary: Provides occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (10 × 10 km grid).
 tags:
 - databases
 - mediterranean-trees
@@ -16,11 +17,7 @@ tags:
 - phylogeny
 ---
 
-The WOODIV database provides reliable occurrences, four functional traits (plant height, seed mass, wood density, and specific leaf area), and sequences from three DNA-regions (rbcL, matK, and trnH-psbA), together with modelled occurrences and a phylogeny for all 210 Euro-Mediterranean tree species (INSPIRE-compliant 10 × 10 km grid).
-
 This work is part of the CESAB working group [**WOODIV**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/woodiv/)
-
-<!--more-->
 
 <br />
 <hr />

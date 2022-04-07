@@ -1,11 +1,11 @@
 ---
-date: "2020-11-29"
-title: Course on reproducibility
+date: "2021-11-29"
+title: Course on Reproducibility
 subtitle: Data toolbox for reproducible research in computational ecology
-image: /img/datatoolbox-logo.png
+image: /img/logo-rdatatoolbox_150dpi.png
 available:
-  github: https://github.com/frbcesab/datatoolbox
-  website: "https://frbcesab.github.io/datatoolbox"
+  github: https://github.com/rdatatoolbox
+  website: "https://rdatatoolbox.github.io/"
 contact:
   name: Nicolas Casajus
   url: "https://www.fondationbiodiversite.fr/en/membre/nicolas-casajus"
@@ -26,7 +26,7 @@ tags:
 Since 2019 the FRB-CESAB and the [**GdR EcoStat**](https://sites.google.com/site/gdrecostat/) organize
 the training course _Data Toolbox for Reproducible Research in Computational Ecology_. The objective of this five-day course, in French, is to train young researchers in reproducibility, software development and version management tools (e.g. `R`, `git`, `rmarkdown`, `tidyverse`, `docker`, `renv`), applied to biodiversity research.
 
-The 2021 program is available [here](https://frbcesab.github.io/datatoolbox/#programme).
+The program is available [here](https://rdatatoolbox.github.io/#program).
 
 
 **Speakers:**&nbsp;
