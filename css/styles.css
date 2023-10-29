@@ -20,9 +20,20 @@ h1, h2, h3 {
   background-color: #1b1b1b;
 }
 
-
-
 .navbar-logo {
+}
+
+
+a {
+  color: #375A7F;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #375A7F;
+  font-weight: 400;
+  text-decoration: underline;
 }
 
 button {
@@ -63,14 +74,13 @@ a.anchorjs-link {
   color: #375A7F;
 }
 
-a {
-  color: #375A7F;
-  font-weight: 400;
+a.nav-link:hover {
   text-decoration: none;
 }
 
-a:hover {
-  color: #375A7F;
-  font-weight: 400;
-  text-decoration: underline;
+.picture {
+  border: 1px solid #222222;
+  border-radius: 10px;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
