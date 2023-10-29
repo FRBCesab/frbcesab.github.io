@@ -1,0 +1,76 @@
+/* css styles */
+
+body {
+  font-family: "Open Sans", Monospace;
+}
+
+p {
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.navbar {
+  border-bottom: 1px solid #434343;  
+}
+
+.navbar, .nav-footer {
+  background-color: #1b1b1b;
+}
+
+
+
+.navbar-logo {
+}
+
+button {
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.menu-item {
+  font-weight: 300;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+i.bi.bi-github {
+  padding-left: 20px;
+}
+
+a.bouton {
+  color: #375A7F;
+  text-decoration: none;
+}
+
+a.bouton:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-title {
+  color: white;
+  font-weight: 600;
+}
+
+a.anchorjs-link {
+  color: #375A7F;
+}
+
+.sidebar .toc-active ul li a.active {
+  color: #375A7F;
+}
+
+a {
+  color: #375A7F;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #375A7F;
+  font-weight: 400;
+  text-decoration: underline;
+}
