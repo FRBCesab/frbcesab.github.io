@@ -18,3 +18,5 @@
 
 # Blogdown files ----
 public/
+
+/.quarto/

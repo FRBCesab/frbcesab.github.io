@@ -1,0 +1,172 @@
+## {{< fa graduation-cap >}} &nbsp;Courses
+
+Since 2019 the FRB-CESAB offers courses for the research community.
+
+<a class="bouton" href="#ongoing">
+  <button type="button" class="btn btn-primary btn-sm">
+    Ongoing
+  </button>
+</a>
+<a class="bouton" href="#coming-soon">
+  <button type="button" class="btn btn-primary btn-sm">
+    Coming soon
+  </button>
+</a>
+<a class="bouton" href="#finished">
+  <button type="button" class="btn btn-primary btn-sm">
+    Finished
+  </button>
+</a>
+
+
+<br />
+
+
+
+### Ongoing
+
+<hr /><br />
+
+:::: {.columns}
+::: {.column width=30%}
+<a href="https://rdatatoolbox.github.io/">
+<img src="../images/logo-rdatatoolbox_150dpi.png" width="80%" />
+</a>
+:::
+::: {.column width=70%}
+#### Reproducible Research in Computational Ecology
+
+Since 2019&nbsp; • &nbsp;Co-organised with the [GdR EcoStat](https://sites.google.com/site/gdrecostat/)
+<br/>
+_A five-day training course on reproducibility, software development and version 
+management tools (Research compendium, Git, GitHub, R Markdown, Quarto, renv, Docker)_.
+:::
+::::
+
+{{< fa globe >}} &nbsp;<https://rdatatoolbox.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/rdatatoolbox/>
+
+
+
+<br />
+
+
+:::: {.columns}
+::: {.column width=30%}
+<a href="https://theodatasci.github.io/">
+<img src="../images/logo-theodatasci_150dpi.png" width="80%" />
+</a>
+:::
+::: {.column width=70%}
+#### Theory-Driven Analysis of Ecological Data
+
+Since 2022&nbsp; • &nbsp;Co-organised with the [GdR TheoMoDive](https://sete-moulis-cnrs.fr/en/research/centre-for-biodiversity-theory-and-modelling/theomodive)
+<br/>
+_A five-day training course on mathematical modelling (differential equations, 
+Lotka Volterra, Jacobian matrices), and the statistical links between models and data_.
+:::
+::::
+
+{{< fa globe >}} &nbsp;<https://theodatasci.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/theodatasci/>
+
+
+
+<br />
+
+
+:::: {.columns}
+::: {.column width=30%}
+<a href="https://literaturesynthesis.github.io/">
+<img src="../images/logo-literaturesynthesis_150dpi.png" width="80%" />
+</a>
+:::
+::: {.column width=70%}
+#### Systematic Reviews & Meta-Analyses
+
+Since 2022&nbsp; • &nbsp;Co-organised with the [UMS PatriNat](https://www.patrinat.fr)
+<br/>
+_A five-day training course on methods and techniques of meta-analyses and 
+systematic reviews/maps applied to the field of biodiversity._
+:::
+::::
+
+{{< fa globe >}} &nbsp;<https://literaturesynthesis.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/literaturesynthesis/>
+
+
+
+<br />
+
+
+
+### Coming soon
+
+<hr /><br />
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-networks_150dpi.png" width="80%" />
+:::
+::: {.column width=70%}
+#### Networks Analysis
+
+Planned in 2024
+:::
+::::
+
+
+
+<br />
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-iabiodiversity_150dpi.png" width="80%" />
+:::
+::: {.column width=70%}
+#### Artificial Intelligence & Biodiversity
+
+Planned in 2024
+:::
+::::
+
+
+
+<br />
+
+
+
+### Finished
+
+<hr /><br />
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<a href="https://github.com/frbcesab/workshop-free/">
+<img src="../images/logo-mFD.png" width="80%" />
+</a>
+:::
+::: {.column width=70%}
+#### Functional Rarity and Diversity in Ecology
+
+2022&nbsp; • &nbsp;Co-organised with the CESAB working group [FREE](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/)
+<br/>
+_A four-hour training course on functional rarity and diversity in ecology 
+using the R packages [`mFD`](https://github.com/CmlMagneville/mFD) and 
+[`funrar`](https://github.com/rekyt/funrar)_.
+:::
+::::
+
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/workshop-free/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/workshop-free/>
+

@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "FRB-CESAB"
+  site-url: https://frbcesab.github.io/
+  repo-url: https://github.com/frbcesab/frbcesab.github.io/
+  favicon: images/logo-cesab-square.png
+  search: false
+  
+  sidebar:
+    logo: images/logo-cesab.png
+  
+  page-footer: 
+    left: "&copy; CC-By [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)"
+    center: "Code source available on [{{< fa brands github >}}](https://github.com/frbcesab/frbcesab.github.io/)"
+    right: "Built with [Quarto](https://quarto.org/)"
+    border: true 
+ 
+  navbar:
+    href: https://frbcesab.github.io/
+    right:
+    - text: "{{< fa database >}} <span class='menu-item'>Databases</span>"
+      href: content/databases.qmd
+    - text: "{{< fa code >}} <span class='menu-item'>Softwares</span>"
+      href: content/softwares.qmd
+    - text: "{{< fa book >}} <span class='menu-item'>Publications</span>"
+      href: content/publications.qmd
+    - text: "{{< fa graduation-cap >}} <span class='menu-item'>Courses</span>"
+      href: content/courses.qmd
+    - text: "{{< fa laptop-code >}} <span class='menu-item'>Tutorials</span>"
+      href: content/tutorials.qmd
+
+
+format:
+  html:
+    theme: darkly
+    css: css/styles.css
+    toc: false
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">

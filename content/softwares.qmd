@@ -1,0 +1,602 @@
+## {{< fa code >}} &nbsp;Softwares
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rdeps
+
+The goal of the R package `rdeps` is to provide a tool to identify all external 
+packages used in a project (package, compendium, website, etc.) and to list 
+them in the [DESCRIPTION](https://r-pkgs.org/description.html) file.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rdeps/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rdeps/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-rwosstarter.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rwosstarter
+
+The R package `rwosstarter` is a client to the 
+[Web of Science Starter API](https://developer.clarivate.com/apis/wos-starter). 
+It is dedicated to retrieve metadata (including times-cited counts) of 
+scientific publications matching search terms. It can be used to run a 
+literature synthesis.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwosstarter/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwosstarter/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-chessboard.png" width="80%" />
+:::
+::: {.column width=70%}
+#### chessboard
+
+The package `chessboard` provides functions to work with directed (asymmetric) 
+and undirected (symmetric) spatial (or non-spatial) networks. It implements 
+different methods to detect neighbors, all based on the chess game (it goes 
+beyond the rook and the queen) to create complex connectivity scenarios.
+
+This work is part of the CESAB working group [**BRIDGE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/BRIDGE/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/chessboard/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/chessboard/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=chessboard).
+:::
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-forcis.png" width="80%" />
+:::
+::: {.column width=70%}
+#### forcis
+
+The goal of the R package `forcis` is to provide an interface to the FORCIS 
+database on global foraminifera distribution. This package allows to download 
+and to handle FORCIS data hosted on [Zenodo](https://zenodo.org/records/8345072).
+
+This work is part of the CESAB working group [**FORCIS**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/FORCIS/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/forcis/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/forcis/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-funbiogeo.png" width="80%" />
+:::
+::: {.column width=70%}
+#### funbiogeo
+
+The package `funbiogeo` aims to help users with analyses in functional 
+biogeography by loading and combining data, computing trait coverage, as well 
+as computing functional diversity indices, drawing maps, correlating them 
+with the environment, and upscaling assemblages.
+
+This work is part of the CESAB working group [**FREE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/FREE/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Matthias Grenié](https://rekyt.github.io) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/funbiogeo/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/funbiogeo/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rutils
+
+The R package `rutils` is a collection of R functions commonly used in 
+FRB-CESAB projects. See the [README](https://github.com/FRBCesab/rutils) for an 
+overview of the features.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rutils/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rutils/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### zenodor
+
+The goal of the R package `zenodor` is to provide an CLI interface to the 
+[Zenodo API](https://developers.zenodo.org/) to list and download files from a 
+Zenodo repository. This package works with open and restricted access repositories. 
+For restricted repository a token is required.
+
+This work is part of the CESAB working group [**SYNTREESYS**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/SYNTREESYS/).
+
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zenodor/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zenodor/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-snakedist.png" width="80%" />
+:::
+::: {.column width=70%}
+#### snakedist
+
+The goal of the R package `snakedist` is to compute distance between pair of 
+points (survey locations) along a linear shape (e.g. a river, a road, etc.). 
+Note that this package works even if the points are not exactly on the line.
+
+This work is part of the CESAB working group [**BRIDGE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/BRIDGE/).
+
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/snakedist/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/snakedist/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-zoteror.png" width="80%" />
+:::
+::: {.column width=70%}
+#### zoteror
+
+The goal of the R package `zoteror` is to retrieve references metadata stored 
+in the Zotero local database (SQLite file).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zoteror/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zoteror/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-geoparser.png" width="80%" />
+:::
+::: {.column width=70%}
+#### geoparser
+
+The goal of the R package `geoparser` is to detect country names in a text 
+document (e.g. a PDF file imported with the R package `pdftools`).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/geoparser/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/geoparser/>
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-rbibtools.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rbibtools
+
+The R package `rbibtools` imports, cleans, and exports `.bib` files 
+(BibTeX references) exported by common references management software 
+(e.g. Mendeley, Zotero).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rbibtools/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rbibtools/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### papieRmache
+
+`papieRmache` is an R package for chewing up papers, spitting out the 
+information you don't want, keeping the information you do.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Andrew Helmstetter](https://ajhelmstetter.github.io/) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://ajhelmstetter.github.io/papieRmache/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/ajhelmstetter/papieRmache/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### robinmap
+
+The goal of the R package `robinmap` is to map World countries in the Robinson 
+projection system (or others CRS) centered on a different meridian than 
+Greenwich. It uses [Natural Earth](https://www.naturalearthdata.com/) layers as base maps. 
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/robinmap/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/robinmap/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### messages
+
+The R package `messages` is a collection of functions to print colored messages 
+in the R console using the packages `cli` and `crayon`. This package is strongly 
+inspired from the functions `ui_*()` of the package [`usethis`](https://usethis.r-lib.org/). 
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/messages/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/messages/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-rwoslite.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rwoslite
+
+The R package `rwoslite` is an interface to the 
+[Web of Science Lite API](https://developer.clarivate.com/apis/woslite). 
+It allows users to write complex requests to retrieve scientific publications metadata.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwoslite/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwoslite/>
+
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-mFD.png" width="80%" />
+:::
+::: {.column width=70%}
+#### mFD
+
+The `mFD` package provides a user friendly interface to compute a global 
+assessment of functional diversity by gathering computation of alpha and beta 
+functional indices. As no package before, it guides users through functional 
+analysis with one function per action to complete, several arguments that can 
+be changed and allows personalized graphical outputs.
+
+This work is part of the CESAB working group [**FREE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Camille Magneville](https://fr.linkedin.com/in/camille-magneville-841ba7163) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://cmlmagneville.github.io/mFD/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/cmlmagneville/mFD/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=mFD).
+:::
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-popbayes.png" width="80%" />
+:::
+::: {.column width=70%}
+#### popbayes
+
+The goal of the R package `popbayes` is to infer trends of one or several 
+populations over time from series of counts. It does so by accounting for count 
+precision (provided or inferred based on expert knowledge, e.g. guesstimates), 
+smoothing the population rate of increase over time, and accounting for the 
+maximum demographic potential of species. Inference is carried out in a 
+Bayesian framework.
+
+This work is part of the CESAB working group [**AFROBIODRIVERS**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/afrobiodrivers/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/popbayes/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/popbayes/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=popbayes).
+:::
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-rcompendium.png" width="80%" />
+:::
+::: {.column width=70%}
+#### rcompendium
+
+The aim of the R package `rcompendium` is to make easier the creation of R 
+package or research compendium (i.e. a predefined files/folders structure) so 
+that users can focus on the code instead of wasting time organizing files. 
+A full ready-to-work structure is set up with some additional features.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rcompendium/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rcompendium/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=rcompendium).
+:::
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-worldpa.png" width="80%" />
+:::
+::: {.column width=70%}
+#### worldpa
+
+`worldpa` is an R client to the World Database on Protected Areas (WDPA) 
+[API](https://api.protectedplanet.net) 
+that allow users to download spatial geometries of protected areas for world countries.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/worldpa/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/worldpa/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### algaeClassify
+
+The aim of the package `algaeClassify` is to determine phytoplankton functional 
+groups based on functional traits. It allows to verify accepted taxonomic 
+nomenclature of phytoplankton species, assign species to functional group 
+classifications, and manipulate taxonomic and functional diversity data.
+
+This work is part of the CESAB working group [**GEISHA**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/geisha/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Vijay P. Patil](https://www.usgs.gov/staff-profiles/vijay-p-patil?qt-staff_profile_science_products=0#qt-staff_profile_science_products) (maintainer)
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=algaeClassify).
+:::
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-conr.png" width="80%" />
+:::
+::: {.column width=70%}
+#### ConR
+
+`ConR` is an R package to compute multi-species estimation of geographical range
+parameters for preliminary assessment of conservation status following Criterion B
+of the International Union for Conservation of Nature (IUCN).
+
+This work is part of the CESAB working group [**RAINBIO**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/rainbio/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Gilles Dauby](https://www.researchgate.net/profile/Gilles-Dauby) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://gdauby.github.io/ConR/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/gdauby/ConR/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=ConR).
+:::
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### funrar
+
+`funrar` is an R package to compute functional rarity indices. It quantifies how 
+species are rare both from a functional and an extent point of view. Various 
+indices can be computed using both regional and local information.
+
+This work is part of the CESAB working group [**FREE**](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/free/).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Matthias Grenié](https://rekyt.github.io) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://rekyt.github.io/funrar/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/Rekyt/funrar/>
+
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=funrar).
+:::
+
