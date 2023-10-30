@@ -16,7 +16,7 @@
 # R Environment Variables ----
 .Renviron
 
-# Blogdown files ----
-public/
+# Quarto files ----
+_site/
 
 /.quarto/
