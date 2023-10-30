@@ -8,6 +8,6 @@ Source of the [FRB-CESAB website](https://frbcesab.github.io/) presenting softwa
 
 <hr />
 
-Website built with [`R`](https://cran.r-project.org/), 
+Website built with :heart: with 
 [`Quarto`](https://quarto.org/) & 
 [`GitHub Actions`](https://github.com/features/actions).
