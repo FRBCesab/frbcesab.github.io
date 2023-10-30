@@ -1,1 +1,22 @@
 ## {{< fa book >}} &nbsp;Publications
+
+Participants in 
+[CESAB working groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) 
+publish the results of their CESAB associated research in various scientific journals. 
+There are more than 300 scientific publications since the creation of CESAB in 2010.
+
+The **CESAB's Zotero Library** is available [here](https://www.zotero.org/groups/4784005/frb-cesab/library).
+
+
+```{r}
+#| label: 'biblio'
+#| eval: true
+#| echo: false
+#| output: asis
+#| results: asis
+
+biblio <- readLines(here::here("content", "list-publications_by_year.html"))
+biblio <- gsub("URL:", "<br>URL:", biblio)
+biblio <- gsub("DOI:", "<br>DOI:", biblio)
+cat(paste0(biblio, collapse = "\n"))
+```

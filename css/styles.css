@@ -84,3 +84,20 @@ a.nav-link:hover {
   margin-top: 1em;
   margin-bottom: 2em;
 }
+
+.sstitre {
+  font-weight: 600;
+  font-size: 1.2em;
+  padding-right: 40px;
+  border-bottom: 1px solid #434343;
+  text-align: center;
+}
+
+.para_plus_js {
+  margin-top: 40px;
+}
+
+.item {
+  padding-left: 2.6em;
+  text-indent: -2.6em;
+}
