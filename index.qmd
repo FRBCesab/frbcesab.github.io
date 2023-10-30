@@ -1,32 +1,59 @@
 ## Resources developed by FRB-CESAB researchers
 
+
+
+::: {.callout-note appearance="simple"}
+By encouraging its groups of researchers to share the tools and databases 
+developed as part of their work, the FRB-CESAB is supporting open science since 
+the centre opened in 2010.
+
+
+<a class="bouton" href="content/databases.html">
+  <button type="button" class="btn btn-primary btn-sm">
+    {{< fa database >}} &nbsp;Databases
+  </button>
+</a>
+<a class="bouton" href="content/softwares.html">
+  <button type="button" class="btn btn-primary btn-sm">
+    {{< fa code >}} &nbsp;Softwares
+  </button>
+</a>
+<a class="bouton" href="content/publications.html">
+  <button type="button" class="btn btn-primary btn-sm">
+    {{< fa book >}} &nbsp;Publications
+  </button>
+</a>
+<a class="bouton" href="content/courses.html">
+  <button type="button" class="btn btn-primary btn-sm">
+    {{< fa graduation-cap >}} &nbsp;Courses
+  </button>
+</a>
+<a class="bouton" href="content/tutorials.html">
+  <button type="button" class="btn btn-primary btn-sm">
+    {{< fa laptop-code >}} &nbsp;Tutorials
+  </button>
+</a>
+:::
+
+
+
+The [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) 
+– Centre for the Synthesis and Analysis of Biodiversity – is a key program of the [FRB](https://www.fondationbiodiversite.fr/en/) (Foundation for Research on Biodiversity) 
+and is an original, innovative and internationally recognized tool that offers 
+researchers a place and time to synthesize and analyze already existing data and 
+information in the field of biodiversity research.
+
 <center>
-  <a class="bouton" href="content/databases.html">
-    <button type="button" class="btn btn-outline-primary btn-sm">
-      {{< fa database >}} &nbsp;Databases
-    </button>
-  </a>
-  <a class="bouton" href="content/softwares.html">
-    <button type="button" class="btn btn-outline-primary btn-sm">
-      {{< fa code >}} &nbsp;Softwares
-    </button>
-  </a>
-  <a class="bouton" href="content/publications.html">
-    <button type="button" class="btn btn-outline-primary btn-sm">
-      {{< fa book >}} &nbsp;Publications
-    </button>
-  </a>
-  <a class="bouton" href="content/courses.html">
-    <button type="button" class="btn btn-outline-primary btn-sm">
-      {{< fa graduation-cap >}} &nbsp;Courses
-    </button>
-  </a>
-  <a class="bouton" href="content/tutorials.html">
-    <button type="button" class="btn btn-outline-primary btn-sm">
-      {{< fa laptop-code >}} &nbsp;Tutorials
-    </button>
-  </a>
+<img class="picture" src="images/picture-ibb.jpg" />
 </center>
 
-<br/>
+Since it was created in 2010, the CESAB has been collecting and pooling existing 
+data and information in the field of biodiversity in order to assess the state 
+of biodiversity and model its future. CESAB groups are composed of international 
+researchers and coordinated by a researcher affiliated with a French research 
+structure.
 
+After pooling and studying existing data on biodiversity, 
+[CESAB groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) 
+publish their work in peer-reviewed scientific articles to share with 
+the international scientific community.

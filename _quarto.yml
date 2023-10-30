@@ -31,8 +31,6 @@ website:
       href: content/courses.qmd
     - text: "{{< fa laptop-code >}} <span class='menu-item'>Tutorials</span>"
       href: content/tutorials.qmd
-    - text: "{{< fa circle-info >}} <span class='menu-item'>About</span>"
-      href: content/about.qmd
 
 
 format:
