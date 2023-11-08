@@ -4,11 +4,11 @@
 ## Configuration of R, RStudio, Git & GitHub
 <hr />
 A tutorial on how to setup a working environment for scientific
-computing with R & git on the main operating systems (Windows, macOS, Ubuntu and Arch Linux).
+computing with R, git, GitHub and Docker on the main operating systems (Windows, macOS, and Ubuntu).
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/training-courses/><br/>
-{{< fa globe >}} &nbsp;**Tutorial:** <https://frbcesab.github.io/training-courses/installation.html>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rsetup/><br/>
+{{< fa globe >}} &nbsp;**Tutorial:** <https://frbcesab.github.io/rsetup/>
 :::
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
