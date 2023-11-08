@@ -1,7 +1,7 @@
 ## {{< fa laptop-code >}} &nbsp;Tutorials
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
-## Configuration of R, RStudio, Git & GitHub
+## Configuration of R, RStudio, git, GitHub & Docker
 <hr />
 A tutorial on how to setup a working environment for scientific
 computing with R, git, GitHub and Docker on the main operating systems (Windows, macOS, and Ubuntu).
