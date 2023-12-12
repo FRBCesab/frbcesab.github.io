@@ -49,11 +49,12 @@ information in the field of biodiversity research.
 
 Since it was created in 2010, the CESAB has been collecting and pooling existing 
 data and information in the field of biodiversity in order to assess the state 
-of biodiversity and model its future. CESAB groups are composed of international 
-researchers and coordinated by a researcher affiliated with a French research 
-structure.
+of biodiversity and model its future. 
+[CESAB working groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) 
+are composed of international researchers and coordinated by a researcher 
+affiliated with a French research structure.
 
 After pooling and studying existing data on biodiversity, 
-[CESAB groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) 
-publish their work in peer-reviewed scientific articles to share with 
-the international scientific community.
+[CESAB working groups](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/) 
+publish their work in [peer-reviewed scientific articles](content/publications.html) 
+to share with the international scientific community.
