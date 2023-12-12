@@ -4,7 +4,7 @@
 
 :::: {.columns}
 ::: {.column width=30%}
-<img src="../images/logo-package.png" width="80%" />
+<img src="../images/logo-rdeps.png" width="80%" />
 :::
 ::: {.column width=70%}
 #### rdeps
