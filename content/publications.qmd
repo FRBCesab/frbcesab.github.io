@@ -18,5 +18,9 @@ The **CESAB's Zotero Library** is available [here](https://www.zotero.org/groups
 biblio <- readLines(here::here("content", "list-publications_by_year.html"))
 biblio <- gsub("URL:", "<br>URL:", biblio)
 biblio <- gsub("DOI:", "<br>DOI:", biblio)
+
+pos <- which(biblio == "<p>&nbsp;</p>")
+if (length(pos) > 0) biblio <- biblio[-pos]
+
 cat(paste0(biblio, collapse = "\n"))
 ```
