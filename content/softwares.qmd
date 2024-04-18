@@ -4,6 +4,29 @@
 
 :::: {.columns}
 ::: {.column width=30%}
+<img src="../images/logo-planner.png" width="80%" />
+:::
+::: {.column width=70%}
+#### planner
+
+The goal of the R package `planner` is to create annual, monthly, and weekly calendars as PDF files in the A4 paper format. Various information can be added: events, holidays, special days, moon phases, etc.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/planner/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/planner/>
+
+
+
+<br/>
+
+
+
+:::: {.columns}
+::: {.column width=30%}
 <img src="../images/logo-rdeps.png" width="80%" />
 :::
 ::: {.column width=70%}
