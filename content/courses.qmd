@@ -88,8 +88,7 @@ Lotka Volterra, Jacobian matrices), and the statistical links between models and
 
 Since 2022&nbsp; • &nbsp;Co-organised with the [UMS PatriNat](https://www.patrinat.fr)
 <br/>
-_A five-day training course on methods and techniques of meta-analyses and 
-systematic reviews/maps applied to the field of biodiversity._
+_A five-day training course on methods and techniques of meta-analyses and systematic reviews/maps applied to the field of biodiversity._
 :::
 ::::
 
@@ -102,27 +101,58 @@ systematic reviews/maps applied to the field of biodiversity._
 <br />
 
 
-
-### Coming soon
-
-<hr /><br />
-
-
-
 :::: {.columns}
 ::: {.column width=30%}
-<img src="../images/logo-networks_150dpi.png" width="80%" />
+<a href="https://econetoolbox.github.io/">
+<img src="../images/logo-econetoolbox_150dpi.png" width="80%" />
+</a>
 :::
 ::: {.column width=70%}
-#### Networks Analysis
+#### Analyzing Ecological Networks
 
-Planned in 2024
+Since 2024&nbsp; • &nbsp;Co-organised with the [ANR ECONET](https://cmatias.perso.math.cnrs.fr/ANR_EcoNet.html)
+<br/>
+_This five-day training course is an introduction to networks, classical metrics (including modularity, nesteness, clustering), null models, generative models (including SBM), multilayer networks_.
 :::
 ::::
+
+{{< fa globe >}} &nbsp;<https://econetoolbox.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/econetoolbox/>
 
 
 
 <br />
+
+
+:::: {.columns}
+::: {.column width=30%}
+<a href="https://biodiversitydata.github.io/">
+<img src="../images/logo-biodiversitydata_150dpi.png" width="80%" />
+</a>
+:::
+::: {.column width=70%}
+#### Biodiversity Data Management
+
+Since 2024&nbsp; • &nbsp;Co-organised with the [PNDB](https://www.pndb.fr/) & [GBIF France](http://www.gbif.fr/)
+<br/>
+_A five-day training course on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers._.
+:::
+::::
+
+{{< fa globe >}} &nbsp;<https://biodiversitydata.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/biodiversitydata/>
+
+
+
+<br />
+
+
+
+### Coming soon
+
+<hr /><br />
 
 
 
