@@ -1,4 +1,4 @@
-## {{< fa laptop-code >}} &nbsp;Tutorials
+## {{< fa laptop-code >}} &nbsp;Resources
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
 ## A gentle introduction to git for R users

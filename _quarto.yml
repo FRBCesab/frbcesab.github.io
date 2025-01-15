@@ -3,14 +3,14 @@ project:
   output-dir: _site
 
 website:
-  title: "FRB-CESAB"
+  # title: "FRB-CESAB"
   site-url: https://frbcesab.github.io/
   repo-url: https://github.com/frbcesab/frbcesab.github.io/
   favicon: images/logo-cesab-square.png
   search: false
   
-  sidebar:
-    logo: images/logo-cesab.png
+  # sidebar:
+  #   logo: images/logo-cesab.png
   
   page-footer: 
     left: "&copy; CC-By [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)"
@@ -19,23 +19,27 @@ website:
     border: true 
  
   navbar:
+    logo: images/logo-cesab.png
     href: https://frbcesab.github.io/
     right:
     - text: "{{< fa database >}} <span class='menu-item'>Databases</span>"
       href: content/databases.qmd
     - text: "{{< fa code >}} <span class='menu-item'>Softwares</span>"
       href: content/softwares.qmd
-    - text: "{{< fa book >}} <span class='menu-item'>Publications</span>"
-      href: content/publications.qmd
     - text: "{{< fa graduation-cap >}} <span class='menu-item'>Courses</span>"
       href: content/courses.qmd
-    - text: "{{< fa laptop-code >}} <span class='menu-item'>Tutorials</span>"
-      href: content/tutorials.qmd
-
+    - text: "{{< fa users-rectangle >}} <span class='menu-item'>Webinars</span>"
+      href: content/webinars.qmd
+    - text: "{{< fa book >}} <span class='menu-item'>Publications</span>"
+      href: content/publications.qmd
+    - text: "{{< fa laptop-code >}} <span class='menu-item'>Resources</span>"
+      href: content/resources.qmd
+    - text: "{{< fa comment >}} <span class='menu-item'>Blog</span>"
+      href: https://frbcesab.github.io/tips-and-tricks/
 
 format:
   html:
-    theme: darkly
+    theme: sandstone
     css: css/styles.css
     toc: false
     header-includes: |
