@@ -1,22 +1,13 @@
 ## {{< fa graduation-cap >}} &nbsp;Courses
 
-Since 2019 the FRB-CESAB offers courses for the research community.
+<center>
+<img class="picture" width="50%" src="../images/logo-collection.png" />
+</center>
 
-<a class="bouton" href="#ongoing">
-  <button type="button" class="btn btn-primary btn-sm">
-    Ongoing
-  </button>
-</a>
-<a class="bouton" href="#coming-soon">
-  <button type="button" class="btn btn-primary btn-sm">
-    Coming soon
-  </button>
-</a>
-<a class="bouton" href="#finished">
-  <button type="button" class="btn btn-primary btn-sm">
-    Finished
-  </button>
-</a>
+
+Since 2019 the FRB-CESAB provides courses on analysis tools applied to biodiversity research and data management in ecology.
+Available in French or English, they are aimed at researchers working in the field of ecology (including PhD students, post-doctoral fellows, engineers).  
+
 
 
 <br />
@@ -136,7 +127,7 @@ _This five-day training course is an introduction to networks, classical metrics
 
 Since 2024&nbsp; • &nbsp;Co-organised with the [PNDB](https://www.pndb.fr/) & [GBIF France](http://www.gbif.fr/)
 <br/>
-_A five-day training course on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers._.
+_A five-day training course on the different stages of the data cycle, from acquisition to opening, including management, storage and the drafting of data papers_.
 :::
 ::::
 
@@ -150,22 +141,23 @@ _A five-day training course on the different stages of the data cycle, from acqu
 
 
 
-### Coming soon
-
-<hr /><br />
-
-
-
 :::: {.columns}
 ::: {.column width=30%}
 <img src="../images/logo-iabiodiversity_150dpi.png" width="80%" />
 :::
 ::: {.column width=70%}
-#### Artificial Intelligence & Biodiversity
+#### Artificial Intelligence for Ecologists: A Toolkit
 
-Planned in 2024
+Since 2025
+<br/>
+_A five-day training course to initiate ecologists to AI concepts and tools (data science, Random forest, Multilayer Perceptron, Convolutional Neural Networks, Symbolic AI)_.
 :::
 ::::
+
+{{< fa globe >}} &nbsp;<https://ai-ecol.github.io/>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/ai-ecol/>
+
 
 
 
