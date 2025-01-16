@@ -1,40 +1,9 @@
-## Resources developed by FRB-CESAB researchers
 
+<center>
+<img class="picture" width="50%" src="images/logo-cesab.png" />
+</center>
 
-
-::: {.callout-note appearance="simple"}
-By encouraging its groups of researchers to share the tools and databases 
-developed as part of their work, the FRB-CESAB is supporting open science since 
-the centre opened in 2010.
-
-
-<a class="bouton" href="content/databases.html">
-  <button type="button" class="btn btn-primary btn-sm">
-    {{< fa database >}} &nbsp;Databases
-  </button>
-</a>
-<a class="bouton" href="content/softwares.html">
-  <button type="button" class="btn btn-primary btn-sm">
-    {{< fa code >}} &nbsp;Softwares
-  </button>
-</a>
-<a class="bouton" href="content/publications.html">
-  <button type="button" class="btn btn-primary btn-sm">
-    {{< fa book >}} &nbsp;Publications
-  </button>
-</a>
-<a class="bouton" href="content/courses.html">
-  <button type="button" class="btn btn-primary btn-sm">
-    {{< fa graduation-cap >}} &nbsp;Courses
-  </button>
-</a>
-<a class="bouton" href="content/tutorials.html">
-  <button type="button" class="btn btn-primary btn-sm">
-    {{< fa laptop-code >}} &nbsp;Tutorials
-  </button>
-</a>
-:::
-
+<br/>
 
 
 The [CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) 
@@ -44,7 +13,7 @@ researchers a place and time to synthesize and analyze already existing data and
 information in the field of biodiversity research.
 
 <center>
-<img class="picture" src="images/picture-ibb.jpg" />
+<img class="picture" width="80%" src="images/picture-ibb.jpg" />
 </center>
 
 Since it was created in 2010, the CESAB has been collecting and pooling existing 
