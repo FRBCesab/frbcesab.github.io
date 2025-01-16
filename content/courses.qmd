@@ -1,7 +1,7 @@
 ## {{< fa graduation-cap >}} &nbsp;Courses
 
 <center>
-<img class="picture" width="50%" src="../images/logo-collection.png" />
+<img class="picture" width="50%" src="../images/logo-collection-2.png" />
 </center>
 
 
