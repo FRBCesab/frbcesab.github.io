@@ -13,6 +13,30 @@
 
 
 ::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [06] Spatio-temporal variability of coral reefs at the global scale: causalities, idiosyncrasies and implications for ecological indicators 
+<hr />
+
+{{< fa calendar-days >}}&nbsp; January 2025
+<br/>{{< fa user >}}&nbsp; **Mehdi ADJEROUD** (IRD, UMR ENTROPIE, France)
+<br/>{{< fa user >}}&nbsp; **Valeriano PARRAVICINI** (EPHE, CRIOBE, France)
+<br/>{{< fa globe >}}&nbsp; [SCORE-REEF](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/score-reef/) project
+
+<br/>
+
+**Abstract**
+
+Coral reefs host the highest marine biodiversity and provide crucial services that sustain 500 million people worldwide. However, reefs are degrading rapidly due to the overlap between climate-induced disturbances and chronic stress. While reefs are recovering from the most prolonged global coral die-off on record (2015-2016), the effect of multiple stressors is still hard to disentangle and managers or conservation practitioners are charged to take decisions in a context of high uncertainty. Solving this issue would require the development of a set of complementary indicators that evaluate the status of reefs considering the taxonomic and the functional facets of biodiversity. These should be built using large-scale and long-term datasets to capture a wide range of environmental, biogeographical and anthropogenic conditions.
+In [SCORE-REEF](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/score-reef/), we merged and analysed global-scale and long-term datasets deriving from monitoring programs running in the French Overseas Territories and other regions. We evaluated the relevance and inter-operability of available datasets and assessed the temporal dynamics of benthic and fish assemblages using taxonomic and functional approaches. We then discuss the relevance of indicators used within the European Water Framework Directive, IFRECOR and MPAs monitoring, paving the way to the development of region-tailored indicators.  
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/rDhubNtbbqw" title="Cesabinar #6 - SCORE-REEF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
 ## [05] Foraminifera response to climatic stress: Evaluating biodiversity changes of calcifying zooplankton in response to multiple stressors
 <hr />
 
