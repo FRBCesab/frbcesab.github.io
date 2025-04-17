@@ -44,7 +44,9 @@ them in the [DESCRIPTION](https://r-pkgs.org/description.html) file.
 <br/>
 {{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rdeps/>
 
-
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=rdeps).
+:::
 
 <br/>
 
