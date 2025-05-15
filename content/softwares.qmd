@@ -134,7 +134,9 @@ This work is part of the CESAB working group [**FORCIS**](https://www.fondationb
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=forcis).
+:::
 
+::: {.callout-note appearance="simple"}
 ## The code as been peer-reviewed by [**rOpenSci**](https://github.com/ropensci/software-review/issues/660)
 :::
 
