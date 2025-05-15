@@ -128,10 +128,15 @@ This work is part of the CESAB working group [**FORCIS**](https://www.fondationb
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/forcis/>
+{{< fa globe >}} &nbsp;<https://docs.ropensci.org/forcis/>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/forcis/>
+{{< fa brands github >}} &nbsp;<https://github.com/ropensci/forcis/>
 
+::: {.callout-note appearance="simple"}
+## This package is available on the [**CRAN**](https://cran.r-project.org/package=forcis).
+
+## The code as been peer-reviewed by [**rOpenSci**](https://github.com/ropensci/software-review/issues/660)
+:::
 
 
 <br/>
