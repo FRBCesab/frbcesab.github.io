@@ -15,9 +15,9 @@ The goal of the R package `planner` is to create annual, monthly, and weekly cal
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/planner/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/planner>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/planner/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/planner>
 
 
 
@@ -40,9 +40,9 @@ them in the [DESCRIPTION](https://r-pkgs.org/description.html) file.
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rdeps/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rdeps>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rdeps/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rdeps>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=rdeps).
@@ -69,9 +69,9 @@ literature synthesis.
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwosstarter/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwosstarter>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwosstarter/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwosstarter>
 
 
 
@@ -97,9 +97,9 @@ This work is part of the CESAB working group [**BRIDGE**](https://www.fondationb
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/chessboard/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/chessboard>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/chessboard/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/chessboard>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=chessboard).
@@ -128,16 +128,16 @@ This work is part of the CESAB working group [**FORCIS**](https://www.fondationb
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://docs.ropensci.org/forcis/>
+{{< fa globe >}} &nbsp;<https://docs.ropensci.org/forcis>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/ropensci/forcis/>
+{{< fa brands github >}} &nbsp;<https://github.com/ropensci/forcis>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=forcis).
 :::
 
 ::: {.callout-note appearance="simple"}
-## The code as been peer-reviewed by [**rOpenSci**](https://github.com/ropensci/software-review/issues/660)
+## The code has been peer-reviewed by [**rOpenSci**](https://github.com/ropensci/software-review/issues/660)
 :::
 
 
@@ -163,9 +163,9 @@ This work is part of the CESAB working group [**FREE**](https://www.fondationbio
 
 {{< fa user >}} &nbsp;[Matthias Grenié](https://rekyt.github.io) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/funbiogeo/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/funbiogeo>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/funbiogeo/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/funbiogeo>
 
 
 
@@ -188,9 +188,9 @@ overview of the features.
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rutils/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rutils>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rutils/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rutils>
 
 
 
@@ -217,9 +217,9 @@ This work is part of the CESAB working group [**SYNTREESYS**](https://www.fondat
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zenodor/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zenodor>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zenodor/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zenodor>
 
 
 
@@ -245,9 +245,9 @@ This work is part of the CESAB working group [**BRIDGE**](https://www.fondationb
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/snakedist/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/snakedist>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/snakedist/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/snakedist>
 
 
 
@@ -269,9 +269,9 @@ in the Zotero local database (SQLite file).
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zoteror/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/zoteror>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zoteror/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/zoteror>
 
 
 
@@ -293,9 +293,9 @@ document (e.g. a PDF file imported with the R package `pdftools`).
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/geoparser/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/geoparser>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/geoparser/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/geoparser>
 
 
 <br/>
@@ -317,9 +317,9 @@ The R package `rbibtools` imports, cleans, and exports `.bib` files
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rbibtools/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rbibtools>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rbibtools/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rbibtools>
 
 
 
@@ -341,9 +341,9 @@ information you don't want, keeping the information you do.
 
 {{< fa user >}} &nbsp;[Andrew Helmstetter](https://ajhelmstetter.github.io/) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://ajhelmstetter.github.io/papieRmache/>
+{{< fa globe >}} &nbsp;<https://ajhelmstetter.github.io/papieRmache>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/ajhelmstetter/papieRmache/>
+{{< fa brands github >}} &nbsp;<https://github.com/ajhelmstetter/papieRmache>
 
 
 
@@ -366,9 +366,9 @@ Greenwich. It uses [Natural Earth](https://www.naturalearthdata.com/) layers as 
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/robinmap/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/robinmap>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/robinmap/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/robinmap>
 
 
 
@@ -391,9 +391,9 @@ inspired from the functions `ui_*()` of the package [`usethis`](https://usethis.
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/messages/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/messages>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/messages/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/messages>
 
 
 
@@ -416,9 +416,9 @@ It allows users to write complex requests to retrieve scientific publications me
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwoslite/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rwoslite>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwoslite/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rwoslite>
 
 
 
@@ -446,9 +446,9 @@ This work is part of the CESAB working group [**FREE**](https://www.fondationbio
 
 {{< fa user >}} &nbsp;[Camille Magneville](https://fr.linkedin.com/in/camille-magneville-841ba7163) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://cmlmagneville.github.io/mFD/>
+{{< fa globe >}} &nbsp;<https://cmlmagneville.github.io/mFD>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/cmlmagneville/mFD/>
+{{< fa brands github >}} &nbsp;<https://github.com/cmlmagneville/mFD>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=mFD).
@@ -480,9 +480,9 @@ This work is part of the CESAB working group [**AFROBIODRIVERS**](https://www.fo
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/popbayes/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/popbayes>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/popbayes/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/popbayes>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=popbayes).
@@ -510,9 +510,9 @@ A full ready-to-work structure is set up with some additional features.
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rcompendium/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/rcompendium>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rcompendium/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/rcompendium>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=rcompendium).
@@ -538,9 +538,9 @@ that allow users to download spatial geometries of protected areas for world cou
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/worldpa/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/worldpa>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/worldpa/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/worldpa>
 
 
 
@@ -593,9 +593,9 @@ This work is part of the CESAB working group [**RAINBIO**](https://www.fondation
 
 {{< fa user >}} &nbsp;[Gilles Dauby](https://www.researchgate.net/profile/Gilles-Dauby) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://gdauby.github.io/ConR/>
+{{< fa globe >}} &nbsp;<https://gdauby.github.io/ConR>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/gdauby/ConR/>
+{{< fa brands github >}} &nbsp;<https://github.com/gdauby/ConR>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=ConR).
@@ -624,9 +624,9 @@ This work is part of the CESAB working group [**FREE**](https://www.fondationbio
 
 {{< fa user >}} &nbsp;[Matthias Grenié](https://rekyt.github.io) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://rekyt.github.io/funrar/>
+{{< fa globe >}} &nbsp;<https://rekyt.github.io/funrar>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/Rekyt/funrar/>
+{{< fa brands github >}} &nbsp;<https://github.com/Rekyt/funrar>
 
 ::: {.callout-note appearance="simple"}
 ## This package is available on the [**CRAN**](https://cran.r-project.org/package=funrar).

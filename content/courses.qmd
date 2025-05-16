@@ -34,9 +34,9 @@ management tools (Research compendium, Git, GitHub, R Markdown, Quarto, renv, Do
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://rdatatoolbox.github.io/>
+{{< fa globe >}} &nbsp;<https://rdatatoolbox.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/rdatatoolbox/>
+{{< fa brands github >}} &nbsp;<https://github.com/rdatatoolbox>
 
 
 
@@ -59,9 +59,9 @@ Lotka Volterra, Jacobian matrices), and the statistical links between models and
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://theodatasci.github.io/>
+{{< fa globe >}} &nbsp;<https://theodatasci.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/theodatasci/>
+{{< fa brands github >}} &nbsp;<https://github.com/theodatasci>
 
 
 
@@ -83,9 +83,9 @@ _A five-day training course on methods and techniques of meta-analyses and syste
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://literaturesynthesis.github.io/>
+{{< fa globe >}} &nbsp;<https://literaturesynthesis.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/literaturesynthesis/>
+{{< fa brands github >}} &nbsp;<https://github.com/literaturesynthesis>
 
 
 
@@ -107,9 +107,9 @@ _This five-day training course is an introduction to networks, classical metrics
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://econetoolbox.github.io/>
+{{< fa globe >}} &nbsp;<https://econetoolbox.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/econetoolbox/>
+{{< fa brands github >}} &nbsp;<https://github.com/econetoolbox>
 
 
 
@@ -131,9 +131,9 @@ _A five-day training course on the different stages of the data cycle, from acqu
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://biodiversitydata.github.io/>
+{{< fa globe >}} &nbsp;<https://biodiversitydata.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/biodiversitydata/>
+{{< fa brands github >}} &nbsp;<https://github.com/biodiversitydata>
 
 
 
@@ -154,9 +154,9 @@ _A five-day training course to initiate ecologists to AI concepts and tools (dat
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://ai-ecol.github.io/>
+{{< fa globe >}} &nbsp;<https://ai-ecol.github.io>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/ai-ecol/>
+{{< fa brands github >}} &nbsp;<https://github.com/ai-ecol>
 
 
 
@@ -188,7 +188,7 @@ using the R packages [`mFD`](https://github.com/CmlMagneville/mFD) and
 :::
 ::::
 
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/workshop-free/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/workshop-free>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/workshop-free/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/workshop-free>
 

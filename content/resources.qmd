@@ -6,8 +6,8 @@
 A Quarto presentation introducing `git` to R users.
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/intro-git/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/intro-git/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/intro-git><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/intro-git>
 :::
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
@@ -16,8 +16,8 @@ A Quarto presentation introducing `git` to R users.
 A blog listing tips and tricks shared during the FRB-CESAB Geek meetings about R, RStudio, git, GitHub, OS, Website, etc.
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/tips-and-tricks/><br/>
-{{< fa globe >}} &nbsp;**Website:** <https://frbcesab.github.io/tips-and-tricks/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/tips-and-tricks><br/>
+{{< fa globe >}} &nbsp;**Website:** <https://frbcesab.github.io/tips-and-tricks>
 :::
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
@@ -27,8 +27,8 @@ A tutorial on how to setup a working environment for scientific
 computing with R, git, GitHub and Docker on the main operating systems (Windows, macOS, and Ubuntu).
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rsetup/><br/>
-{{< fa globe >}} &nbsp;**Tutorial:** <https://frbcesab.github.io/rsetup/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rsetup><br/>
+{{< fa globe >}} &nbsp;**Tutorial:** <https://frbcesab.github.io/rsetup>
 :::
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
@@ -38,8 +38,8 @@ A Quarto presentation introducing the best practices to conduct reproducible
 research with R.
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/good-practices/><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/good-practices/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/good-practices><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/good-practices>
 :::
 
 ::: {.callout-note collapse="true" icon=true appearance="simple"}
@@ -49,6 +49,6 @@ A Quarto book on how to use the FRB-CESAB computing server (Rossinante), includi
 RStudio Server, Conda, Jupyter Notebook, Docker, and Parallel Computing.
 
 {{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rossinante/><br/>
-{{< fa globe >}} &nbsp;**Book:** <https://frbcesab.github.io/rossinante/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rossinante><br/>
+{{< fa globe >}} &nbsp;**Book:** <https://frbcesab.github.io/rossinante>
 :::
