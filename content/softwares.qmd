@@ -7,17 +7,17 @@
 <img src="../images/logo-package.png" width="80%" />
 :::
 ::: {.column width=70%}
-#### faircitations
+#### fairpub
 
-The goal of the R package `faircitations` is to provide a user-friendly way to compute the non-profit and academic friendly ratio of the bibliographic reference list before submitting a manuscript for peer review.
+The goal of the R package `fairpub` is to provide a user-friendly way to compute the non-profit and academic friendly ratio of the bibliographic reference list before submitting a manuscript for peer review.
 :::
 ::::
 
 {{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
 <br/>
-{{< fa globe >}} &nbsp;<https://frbcesab.github.io/faircitations>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/fairpub>
 <br/>
-{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/faircitations>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/fairpub>
 
 
 
