@@ -1,4 +1,4 @@
-## {{< fa code >}} &nbsp;Softwares
+## {{< fa code >}} &nbsp;Software
 
 
 

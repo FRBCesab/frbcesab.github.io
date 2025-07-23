@@ -24,8 +24,8 @@ website:
     right:
     - text: "{{< fa database >}} <span class='menu-item'>Databases</span>"
       href: content/databases.qmd
-    - text: "{{< fa code >}} <span class='menu-item'>Softwares</span>"
-      href: content/softwares.qmd
+    - text: "{{< fa code >}} <span class='menu-item'>Software</span>"
+      href: content/software.qmd
     - text: "{{< fa graduation-cap >}} <span class='menu-item'>Courses</span>"
       href: content/courses.qmd
     - text: "{{< fa users-rectangle >}} <span class='menu-item'>Webinars</span>"
