@@ -9,7 +9,50 @@
 
 {{< fa brands youtube >}}&nbsp; You can watch all the talks on [Youtube](https://youtube.com/playlist?list=PL1iYPJZT3BJZHeUKAiCSvGIe5eFTlvHTg&si=Q55S1otqjDZZmyVu)
 
+
+
+
 <br/>
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [09] Fish biodiversity under global change – A worldwide assessment from scientific trawl surveys
+<hr />
+
+{{< fa calendar-days >}}&nbsp; June 2025
+<br/>{{< fa user >}}&nbsp; **Bastien Mérigot** (Univ. of Montpellier, France)
+<br/>{{< fa user >}}&nbsp; **Deng Palomares** (Univ. of British Columbia, Canada)
+<br/>{{< fa globe >}}&nbsp; [FISHGLOB](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/) project
+
+<br/>
+
+**Abstract**
+
+Fish biodiversity under global change – a worldwide assessment from scientific 
+trawl surveys Global change, linked to climate and direct anthropogenic impacts,
+is causing redistribution of marine species worldwide, modifying fish population
+and stock structure, as well as community compositions. These changes may have
+strong impacts on fisheries and natural fish biodiversity as well as related
+ecosystem services. However, our capacity to assess and monitor short and
+long-term changes in species distribution and biodiversity is hampered by data
+availability and heterogeneity. This Cesabinar will present the 
+[FISHGLOB](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fishglob/)
+project which has collected and combined a unique data set of scientific bottom trawl
+surveys conducted regularly during the last decades across the globe. FISHGLOB
+aims to provide an infrastructure enhancing international cooperation and
+knowledge transfer among data providers, scientists and stakeholders in order
+to support biodiversity and fishery management adaptation in a time of global
+change. Topics during the Cesabinar will cover the FISHGLOB consortium, data
+and infrastructure features, as well as key research results established from
+this large and unique data set regarding the effects of global change on marine
+fish.
+ 
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RETl5IwP1bw" title="Cesabinar #9 - FISHGLOB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
+
 
 ::: {.callout-note collapse="true" icon=false appearance="simple"}
 ## [08] Building a bridge between river corridors, roadsides and field margins
