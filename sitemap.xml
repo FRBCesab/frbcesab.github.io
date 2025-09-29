@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://frbcesab.github.io/index.html</loc>
-    <lastmod>2025-09-05T09:49:15.433Z</lastmod>
-  </url>
-  <url>
-    <loc>https://frbcesab.github.io/content/databases.html</loc>
-    <lastmod>2025-09-05T09:49:15.399Z</lastmod>
-  </url>
-  <url>
-    <loc>https://frbcesab.github.io/content/software.html</loc>
-    <lastmod>2025-09-05T09:49:15.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://frbcesab.github.io/content/publications.html</loc>
-    <lastmod>2025-09-05T09:49:15.400Z</lastmod>
-  </url>
-  <url>
     <loc>https://frbcesab.github.io/content/resources.html</loc>
-    <lastmod>2025-09-05T09:49:15.400Z</lastmod>
+    <lastmod>2025-09-29T08:11:09.151Z</lastmod>
   </url>
   <url>
     <loc>https://frbcesab.github.io/content/webinars.html</loc>
-    <lastmod>2025-09-05T09:49:15.400Z</lastmod>
+    <lastmod>2025-09-29T08:11:09.151Z</lastmod>
   </url>
   <url>
     <loc>https://frbcesab.github.io/content/courses.html</loc>
-    <lastmod>2025-09-05T09:49:15.399Z</lastmod>
+    <lastmod>2025-09-29T08:11:09.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://frbcesab.github.io/index.html</loc>
+    <lastmod>2025-09-29T08:11:09.188Z</lastmod>
   </url>
   <url>
     <loc>https://frbcesab.github.io/LICENSE.html</loc>
-    <lastmod>2025-09-05T09:49:15.388Z</lastmod>
+    <lastmod>2025-09-29T08:11:09.139Z</lastmod>
+  </url>
+  <url>
+    <loc>https://frbcesab.github.io/content/databases.html</loc>
+    <lastmod>2025-09-29T08:11:09.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://frbcesab.github.io/content/software.html</loc>
+    <lastmod>2025-09-29T08:11:09.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://frbcesab.github.io/content/publications.html</loc>
+    <lastmod>2025-09-29T08:11:09.151Z</lastmod>
   </url>
 </urlset>
