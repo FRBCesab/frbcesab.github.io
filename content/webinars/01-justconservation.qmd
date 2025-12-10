@@ -1,0 +1,23 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [01] Towards 'just conservation': Linking theories and practices of justice in biodiversity conservation
+<hr />
+
+{{< fa calendar-days >}}&nbsp; June 2024
+<br/>{{< fa user >}}&nbsp; **Brendan COOLSAET** (FNRS & UCLouvain, Belgium)
+<br/>{{< fa user >}}&nbsp; **Neil DAWSON** (University of East Anglia, UK)
+<br/>{{< fa globe >}}&nbsp; [JUSTCONSERVATION](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/justconservation/) project
+
+<br/>
+
+**Abstract**
+
+From 2018 to 2023, the [JUSTCONSERVATION](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/justconservation/) group has worked on reviewing the science on 50 years of biodiversity conservation. As conservation initiatives expand in response to biodiversity loss, there remains limited understanding about what forms of governance and roles for different actors produce the best social-ecological outcomes.<br/>
+Drawing on evidence collected from 723 studies published in English-language peer-reviewed journals that describe and explore conservation efforts at a single site in 104 countries, we took stock of the geography of knowledge production in conservation science and studied its effect in upholding longstanding narratives about what should be conserved and by whom. We also explored relationships between conservation initiative types, governance types (including different levels of influence by Indigenous Peoples and local communities), and reported social and ecological outcomes.<br/>
+Findings reveal that positive ecological and social outcomes are strongly associated with higher levels of influence of Indigenous Peoples and local communities and their institutions, implying equity in conservation practice should be advanced not only for moral reasons but because it can also enhance conservation effectiveness.
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/M2lJPG9Y3Nk" title="Cesabinar #1 - JUSTCONSERVATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

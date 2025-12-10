@@ -1,0 +1,24 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [08] Building a bridge between river corridors, roadsides and field margins
+<hr />
+
+{{< fa calendar-days >}}&nbsp; May 2025
+<br/>{{< fa user >}}&nbsp; **Éric Tabacchi** (CNRS-INEE, France)
+<br/>{{< fa user >}}&nbsp; **Guillaume Fried** (ANSES, France)
+<br/>{{< fa globe >}}&nbsp; [BRIDGE](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bridge/) project
+
+<br/>
+
+**Abstract**
+
+The [BRIDGE](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bridge/) project aimed to better understand the role of local and regional environmental factors in shaping the taxonomic and functional diversity of plant communities established along river corridors, roadside corridors and cultivated field margins. It gathered partners from the U.K., France, Spain, Italy, Canada and the U.S.A. The analysis of local and regional patterns was conducted from a database including 11,400 field samples (plots) and about 3,000 species characterized by ecological traits.
+The analysis of the role of river-road intersections showed that bridges do influence taxonomic and functional biodiversity, but only at a local scale. Surprisingly, diffuse landscape-level processes explain more plant diversity than directional (along-corridor) processes. We showed that the diversity of roadside should not be underestimated, and more generally that the three interacting habitats studied share many species and trait values, suggesting they can constitute surrogate relays for hosting similar species across the landscape. However, local conditions of disturbance and water and nutrient availability modulate this potential interaction.
+
+The [BRIDGE](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bridge/) and [NAVIDIV](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/navidiv/) FRB-CESAB-ITTECOP projects joined to produce a synthesis on the role of transportation infrastructure in helping plant species to track Global Climate change, highlighting both positive and negative aspects of this phenomenon.
+ 
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/djJKb3V42R8" title="Cesabinar #8 - BRIDGE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

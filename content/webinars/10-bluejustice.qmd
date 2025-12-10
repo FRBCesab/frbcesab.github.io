@@ -1,0 +1,23 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [10] Advancing ocean equity at the nexus of development, climate and conservation policy
+<hr />
+
+{{< fa calendar-days >}}&nbsp; October 2025
+<br/>{{< fa user >}}&nbsp; **Jessica BLYTHE** (Brock University, Canada)
+<br/>{{< fa user >}}&nbsp; **David GILL** (Duke University, USA)
+<br/>{{< fa globe >}}&nbsp; [Blue Justice](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/blue-justice/) project
+
+<br/>
+
+**Abstract**
+
+Ocean inequity is rising, with the benefits of marine resources increasingly concentrated among a few, while vulnerable coastal communities bear the greatest burdens. Addressing this challenge requires solutions that explicitly integrate equity, tackling the roots of structural imbalances rather than treating inequity as a secondary concern. The [Blue Justice](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/blue-justice/) working group, supported by the Fondation pour la Recherche sur la Biodiversité (FRB) through its CESAB program, has advanced this agenda through research on the intersection of development, climate, and conservation policies.
+
+Evidence shows that coastal communities face compounded pressures from climate change, blue growth initiatives, and conservation efforts, which can exacerbate social inequities and undermine resilience. This seminar will highlight pathways for promoting fairness and sustainability in ocean governance, emphasize inclusive decision-making, and introduce a novel tool for measuring and advancing ocean equity. The discussion will also showcase the role of grassroots resistance and community-led strategies in fostering justice, well-being, and resilience across ocean-dependent communities.
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::

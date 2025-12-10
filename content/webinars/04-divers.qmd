@@ -1,0 +1,22 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [04] From reproductive strategies to species diversity: How evolution of breeding systems and associated traits shapes plant species diversity?
+<hr />
+
+{{< fa calendar-days >}}&nbsp; November 2024
+<br/>{{< fa user >}}&nbsp; **Sylvain GLEMIN** (ECOBIO, Rennes, France)
+<br/>{{< fa user >}}&nbsp; **Jos KAFER** (ISEM, Montpellier, France)
+<br/>{{< fa globe >}}&nbsp; [DIVERS](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/divers/) project
+
+<br/>
+
+**Abstract**
+
+Angiosperms (flowering plants) present an exceptional diversity of breeding systems, with variation both in gender distribution within and among individuals (from hermaphroditism to separate sexes) and in mating patterns (from strict outcrossing to predominant selfing). Breeding systems were shown to affect species diversification and to be associated with other life-history and ecological traits. Consequently, these systems could have been an important determinant of the observed species diversity in flowering plants.<br/>
+The [DIVERS](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/divers/) project aimed to explore the hypothesis that the combination of traits associated with breeding systems could be a key factor in understanding evolutionary success and plant species diversity. This project sought to define integrated evolutionary strategies among these traits and to investigate how these strategies could shape the diversification process in flowering plants. This approach helped identify key components that could explain why some groups of flowering plants are more diverse than others and how combinations of traits could influence invasiveness and extinction risks.
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6EWBRf-UVtw" title="Cesabinar #4 - DIVERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

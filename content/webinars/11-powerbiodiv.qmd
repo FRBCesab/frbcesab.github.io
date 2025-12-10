@@ -1,0 +1,24 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [11] Understanding power dynamics in stakeholder participation: Integrating theory and practice for effective biodiversity conservation
+<hr />
+
+{{< fa calendar-days >}}&nbsp; November 2025
+<br/>{{< fa user >}}&nbsp; **Lou Lecuyer** (CNRS LECA, France)
+<br/>{{< fa globe >}}&nbsp; [Powerbiodiv](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/powerbiodiv/) project
+
+<br/>
+
+**Abstract**
+
+The [Powerbiodiv](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/powerbiodiv/) project investigates how power dynamics influence participatory processes in biodiversity conservation, drawing on insights from political science, sociology, facilitation practice, and conservation research. While power is often acknowledged as a key issue in stakeholder participation, it remains inconsistently defined and poorly integrated into biodiversity literature and practice. This project synthesizes existing knowledge on power across disciplines to inform both research and applied approaches in conservation.
+
+This CESABINAR will present the four complementary outputs expected from the evidence synthesis of 82 case studies: a systematic map highlighting the scarcity of studies that thoroughly engage with power or examine its consequences; a quantitative review exploring how power dimensions influence the different stages and outcomes of participatory processes; a qualitative synthesis identifying dominant framings, assumptions, and conceptual gaps in the treatment of power; and a citation network analysis tracing the disciplinary origins and theoretical influences of power-related research. Preliminary results suggest that while power is often mentioned, it is rarely examined in depth or connected to biodiversity outcomes.
+
+Beyond these findings, the project also offers reflections on the challenges and benefits of working in a transdisciplinary group that brings together researchers, practitioners, and institutional actors around a shared inquiry into participation and transformation.
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::

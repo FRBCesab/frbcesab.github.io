@@ -1,0 +1,22 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [02] Dynamic resource landscapes, ecological feedbacks and the emergence of meta-food webs
+<hr />
+
+{{< fa calendar-days >}}&nbsp; September 2024
+<br/>{{< fa user >}}&nbsp; **Isabelle GOUNAND** (CNRS, iEES-Paris, France)
+<br/>{{< fa globe >}}&nbsp; [RED-BIO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/red-bio/) project
+
+<br/>
+
+**Abstract**
+
+Biodiversity and abiotic resource distribution are intrinsically intertwined. Resource distribution influences productivity and biodiversity, but animal movement also redistributes resources across landscapes. Metaecosystem theory integrates this dynamic feedback between biological communities and abiotic resources, but classically considers predefined fixed habitat patches. The assumption of fixed patches, however, does not match well with patterns observed in natural food webs where mobile organisms of different trophic levels forage across contrasting spatial scales.<br/>
+[RED-BIO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/red-bio/) synthesizes principles from meta-food web and metaecosystem theory to develop an integrated modelling framework of food web dynamics in spatially explicit landscapes. We began with a spatially explicit extension of a resource-plant-herbivore occupancy model, where habitat patches emerge from ecological feedbacks rather than being pre-defined and fixed. With this model, we investigate in which conditions dispersal and foraging scales of organisms drive the emergence of resource heterogeneity.<br/>
+Future extension should include a body size-based version enabling to integrate food web complexity and evolutionary potential, in order to let the spatial and temporal heterogeneity emerge from both ecological interactions between animal movement and resource recycling, and eco-evolutionary feedbacks under global change.
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/c8nk8Ap1edM" title="Cesabinar #2 - RED-BIO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

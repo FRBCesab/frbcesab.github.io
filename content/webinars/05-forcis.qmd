@@ -1,0 +1,24 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [05] Foraminifera response to climatic stress: Evaluating biodiversity changes of calcifying zooplankton in response to multiple stressors
+<hr />
+
+{{< fa calendar-days >}}&nbsp; December 2024
+<br/>{{< fa user >}}&nbsp; **Sonia CHAABANE** (CEREGE, CNRS, France)
+<br/>{{< fa user >}}&nbsp; **Thibault DE GARIDEL-THORON** (CEREGE, CNRS, France)
+<br/>{{< fa globe >}}&nbsp; [FORCIS](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/) project
+
+<br/>
+
+**Abstract**
+
+Rising CO2 emissions are driving ocean warming and acidification, disrupting marine ecosystems and threatening calcifying organisms like planktonic foraminifera. These organisms, with their well-preserved fossils in sediments, serve as excellent paleo-environmental indicators. However, their ability to adapt to the rapid pace of modern environmental changes remains uncertain, and a global-scale assessment of their historical distribution is lacking.
+The [FORCIS](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/forcis/) project addressed these uncertainties by compiling a comprehensive database of planktonic foraminifera diversity and distribution from 1910 to the present. With over 180,000 samples collected from various depths and sampling devices, this dataset enabled analyses of species abundance across size classes, and depth. A new size normalization scheme facilitated comparisons across data sampled with different mesh sizes.
+Our analysis revealed clear evidence of poleward migrations, with species diversity increasing at mid- to high-latitudes and some species moving deeper into the water column to escape warming surface waters. Additionally, foraminifera abundance declined by 24% over the past eight decades at these latitudes. Projections for ocean conditions in 2050 and 2100 suggest that low-latitude species will face conditions beyond their historical and present ecological range.
+Ecological niche modeling, using ESM and GRNN models, indicates that these species distribution will likely continue shifting poleward, reducing foraminiferal diversity in tropical and subtropical regions. Shifting alone may be insufficient for those species to cope with anthropic changes.
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gFPSwUBKaDs" title="Cesabinar #5 - FORCIS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

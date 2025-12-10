@@ -1,0 +1,21 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [12] Global redistribution of biodiversity: A macro- and eco-evolutionary approach to understand species vulnerability to global changes
+<hr />
+
+{{< fa calendar-days >}}&nbsp; December 2025
+<br/>{{< fa user >}}&nbsp; **Lise Comte** (Illinois State University, USA)
+<br/>{{< fa user >}}&nbsp; **Jonathan Lenoir** (CNRS, France)
+<br/>{{< fa globe >}}&nbsp; [Bioshifts](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bioshifts/) project
+
+<br/>
+
+**Abstract**
+
+There is now compelling evidence that species across diverse taxonomic groups and regions are responding to climate change by shifting their geographical ranges, with far-reaching consequences for ecosystem functioning and human well-being. However, substantial variability remains in how, where, and why species shift, and much of this variation is still unexplained. The overarching goal of [Bioshifts](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bioshifts/) was to deepen our understanding of the processes driving range shifts, ultimately improving our capacity to forecast and manage the consequences of biodiversity redistribution under climate change. Drawing on a comprehensive geo-database of range-shift estimates compiled from the scientific literature and enriched with climate-velocity metrics and methodological descriptors (the "BioShifts" database), [Bioshifts](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bioshifts/) investigated the global patterns and mechanisms of biodiversity redistribution. This included examining the influence of climate exposure, habitat constraints, species traits, and evolutionary processes. The findings of [Bioshifts](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/bioshifts/) provide new insight into the conditions under which commonly used niche-based models produce reliable forecasts of species redistributions, and how species traits and macroevolutionary processes shape contemporary range shifts.
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::
