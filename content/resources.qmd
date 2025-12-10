@@ -1,54 +1,25 @@
 ## {{< fa laptop-code >}} &nbsp;Resources
 
-::: {.callout-note collapse="true" icon=true appearance="simple"}
-## A gentle introduction to git for R users
-<hr />
-A Quarto presentation introducing `git` to R users.
+```{r}
+#| child: "resources/intro-git.qmd"
+```
 
-{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/intro-git><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/intro-git>
-:::
+```{r}
+#| child: "resources/tips-and-tricks.qmd"
+```
 
-::: {.callout-note collapse="true" icon=true appearance="simple"}
-## Tips & Tricks in Data Science
-<hr />
-A blog listing tips and tricks shared during the FRB-CESAB Geek meetings about R, RStudio, git, GitHub, OS, Website, etc.
+```{r}
+#| child: "resources/rsetup.qmd"
+```
 
-{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/tips-and-tricks><br/>
-{{< fa globe >}} &nbsp;**Website:** <https://frbcesab.github.io/tips-and-tricks>
-:::
+```{r}
+#| child: "resources/reproducibility.qmd"
+```
 
-::: {.callout-note collapse="true" icon=true appearance="simple"}
-## Configuration of R, RStudio, git, GitHub & Docker
-<hr />
-A tutorial on how to setup a working environment for scientific
-computing with R, git, GitHub and Docker on the main operating systems (Windows, macOS, and Ubuntu).
+```{r}
+#| child: "resources/rossinante.qmd"
+```
 
-{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rsetup><br/>
-{{< fa globe >}} &nbsp;**Tutorial:** <https://frbcesab.github.io/rsetup>
-:::
-
-::: {.callout-note collapse="true" icon=true appearance="simple"}
-## Reproducible Research with R: Good Practices
-<hr />
-A Quarto presentation introducing the best practices to conduct reproducible 
-research with R.
-
-{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/good-practices><br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/good-practices>
-:::
-
-::: {.callout-note collapse="true" icon=true appearance="simple"}
-## An User Guide to the FRB-CESAB Computing Server
-<hr />
-A Quarto book on how to use the FRB-CESAB computing server (Rossinante), including
-RStudio Server, Conda, Jupyter Notebook, Docker, and Parallel Computing.
-
-{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
-{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rossinante><br/>
-{{< fa globe >}} &nbsp;**Book:** <https://frbcesab.github.io/rossinante>
-:::
+```{r}
+#| child: "resources/spatial.qmd"
+```

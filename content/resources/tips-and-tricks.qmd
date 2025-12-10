@@ -1,0 +1,9 @@
+::: {.callout-note collapse="true" icon=true appearance="simple"}
+## Tips & Tricks in Data Science
+<hr />
+A blog providing tips and tricks about R, Python, git, GitHub, Linux, etc.
+
+{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr) _et al._<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/tips-and-tricks><br/>
+{{< fa globe >}} &nbsp;**Website:** <https://frbcesab.github.io/tips-and-tricks>
+:::

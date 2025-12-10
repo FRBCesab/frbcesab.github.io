@@ -1,0 +1,10 @@
+::: {.callout-note collapse="true" icon=true appearance="simple"}
+## Reproducible Research with R: Good Practices
+<hr />
+An online presentation introducing the best practices to conduct reproducible 
+research with R.
+
+{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/good-practices><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/good-practices>
+:::

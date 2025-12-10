@@ -1,0 +1,10 @@
+::: {.callout-note collapse="true" icon=true appearance="simple"}
+## A User Guide to the FRB-CESAB Computing Server
+<hr />
+A Quarto book on how to use the FRB-CESAB computing server (Rossinante), including
+RStudio Server, Conda, Jupyter Notebook, Docker, and Parallel Computing.
+
+{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/rossinante><br/>
+{{< fa globe >}} &nbsp;**Book:** <https://frbcesab.github.io/rossinante>
+:::

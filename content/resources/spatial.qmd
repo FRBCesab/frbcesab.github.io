@@ -1,0 +1,9 @@
+::: {.callout-note collapse="true" icon=true appearance="simple"}
+## Spatial data analysis in R
+<hr />
+A collection of tutorials on how to handle spatial data (vectors & rasters) in R.
+
+{{< fa user >}} &nbsp;**Author:** [Romain Frelat](https://rfrelat.github.io/)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/spatial-r><br/>
+{{< fa globe >}} &nbsp;**Website:** <https://frbcesab.github.io/spatial-r>
+:::

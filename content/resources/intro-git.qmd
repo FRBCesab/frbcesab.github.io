@@ -1,0 +1,9 @@
+::: {.callout-note collapse="true" icon=true appearance="simple"}
+## A gentle introduction to git for R users
+<hr />
+An online presentation introducing `git` to R users.
+
+{{< fa user >}} &nbsp;**Author:** [Nicolas Casajus](https://nicolascasajus.fr)<br/>
+{{< fa brands github >}} &nbsp;**Source:** <https://github.com/frbcesab/intro-git><br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://frbcesab.github.io/intro-git>
+:::
