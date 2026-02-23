@@ -4,12 +4,12 @@
 
 :::: {.columns}
 ::: {.column width=30%}
-<img src="../images/logo-package.png" width="80%" />
+<img src="../images/logo-fairpub.png" width="80%" />
 :::
 ::: {.column width=70%}
 #### fairpub
 
-The goal of the R package `fairpub` is to provide a user-friendly way to compute the non-profit and academic friendly ratio of the bibliographic reference list before submitting a manuscript for peer review.
+The goal of the R package `fairpub` is to provide a user-friendly way to compute the non-profit and academic friendly ratio of the bibliographic reference list.
 :::
 ::::
 
