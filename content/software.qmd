@@ -1,5 +1,23 @@
 ## {{< fa code >}} &nbsp;Software
 
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-ncdeckr.png" width="80%" />
+:::
+::: {.column width=70%}
+#### ncdeckr
+
+The R package `ncdeckr` is a client to the [Nextcloud Deck API](https://deck.readthedocs.io/en/latest/API/). It is dedicated to manage (list, create, delete, update) boards, stacks, cards and labels.
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/ncdeckr>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/ncdeckr>
+
+
 
 :::: {.columns}
 ::: {.column width=30%}
