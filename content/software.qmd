@@ -1,6 +1,27 @@
 ## {{< fa code >}} &nbsp;Software
 
 
+:::: {.columns}
+::: {.column width=30%}
+<img src="../images/logo-package.png" width="80%" />
+:::
+::: {.column width=70%}
+#### codebergr
+
+The R package `codebergr` is a client to query (GET, POST, DELETE, PUT methods) the Codeberg [API](https://codeberg.org/api/swagger).
+:::
+::::
+
+{{< fa user >}} &nbsp;[Nicolas Casajus](https://nicolascasajus.fr) (maintainer)
+<br/>
+{{< fa globe >}} &nbsp;<https://frbcesab.github.io/codebergr>
+<br/>
+{{< fa brands github >}} &nbsp;<https://github.com/frbcesab/codebergr>
+
+
+
+<br/>
+
 
 :::: {.columns}
 ::: {.column width=30%}
