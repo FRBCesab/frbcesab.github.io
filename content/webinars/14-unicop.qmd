@@ -1,0 +1,26 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [14] Towards the unification of ecological and evolutionary change
+<hr />
+
+{{< fa calendar-days >}}&nbsp; February 2026
+<br/>{{< fa user >}}&nbsp; **Alexander Duthie** (University of Stirling, Scotland, UK)
+<br/>{{< fa globe >}}&nbsp; [UNICOP](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/unicop/) project
+
+<br/>
+
+**Abstract**
+
+Biological evolution is realised through the same mechanisms of birth and death that underlie change in population density. The deep interdependence between ecology and evolution is well established, and recent models focus on integrating eco-evolutionary dynamics to demonstrate how ecological and evolutionary processes interact and feedback upon each other.
+
+The UNICOP project focuses on the logical foundations of ecology and evolution, and integrates ecological and evolutionary theory by applying eco-evolutionary models to investigate species coexistence. This seminar will present a foundational equation defining eco-evolutionary change and demonstrate how it can be used to derive fundamental equations of ecology (birth and death model) and evolution (Price equation). We outline how this framework can be used to further develop eco-evolutionary theory from first principles.
+
+In a separate approach, we analyse a model of two competing species and derive conditions under which coexistence is possible for all initial trait values. We introduce the concept of ‘near persistence’, in which coexistence holds for specific, biologically, relevant subsets of initial species traits. We show why invasion analysis must often be performed at multiple eco-evolutionary equilibria based on the ecological and evolutionary context. We discuss the biological implications of these results and perspectives for future work.
+
+ 
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::
