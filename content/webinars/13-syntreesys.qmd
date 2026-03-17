@@ -1,0 +1,21 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [13] Synthesis of Neotropical Tree Biodiversity with Plot Inventories
+<hr />
+
+{{< fa calendar-days >}}&nbsp; January 2026
+<br/>{{< fa user >}}&nbsp; **Jérôme Chave** (Université de Toulouse, CNRS, IRD)
+<br/>{{< fa user >}}&nbsp; **Renato Augusto Ferreria de Lima** (Universidade de São Paulo) 
+<br/>{{< fa globe >}}&nbsp; [SYNTREESYS](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/syntreesys/) project
+
+<br/>
+
+**Abstract**
+
+Tropical Americas has greater biodiversity than any other region of the world, but its biomes are under severe threat from climate and land use changes. Over recent years, plot inventory networks have successfully generated syntheses on biodiversity, ecology and ecosystem function that floristic surveys or herbarium data cannot provide. While these networks are now the basis for ecosystem and biome-level synopses, cross-biome, plot-based studies in the tropical Americas are still very rare, mainly because of the lack of cross-network harmonization. SynTreeSys has synthesized knowledge of tropical American tree biodiversity across biomes, making an unparalleled compilation of forest and savanna inventory data, in order to dissect the patterns of diversity and abundance across biomes. This seminar will present some of the achievements of SynTreeSys. We developed tools to harmonize cross-network datasets, for over 4 million trees, 13000 species and 13000 plots; we assessed patterns and drivers of tree species diversity and dominance across biomes; and we evaluated threats to tree species, and their conservation status. Beyond the science, SynTeeSys was a unique opportunity to catalyze multiple new transnational and South-North collaborations, and to foster inclusiveness. 
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::

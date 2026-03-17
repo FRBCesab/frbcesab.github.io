@@ -12,6 +12,19 @@
 
 <br/>
 
+
+```{r}
+#| child: "webinars/15-nefineo.qmd"
+```
+
+```{r}
+#| child: "webinars/14-unicop.qmd"
+```
+
+```{r}
+#| child: "webinars/13-syntreesys.qmd"
+```
+
 ```{r}
 #| child: "webinars/12-bioshifts.qmd"
 ```

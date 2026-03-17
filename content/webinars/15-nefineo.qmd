@@ -1,0 +1,36 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [15] Network of interactions in the neotropics – A field guide to mushroom networks
+<hr />
+
+{{< fa calendar-days >}}&nbsp; March 2026
+<br/>{{< fa user >}}&nbsp; **Mélanie Roy** (University of Toulouse, France / IRL IFAECI, Buenos Aires, Argentina) 
+<br/>{{< fa user >}}&nbsp; **Caroline Dracxler** (Sao Paulo University, Brazil) 
+<br/>{{< fa user >}}&nbsp; **Paulo R. Guimaraes Jr.** (Federal University of Rio de Janeiro & Sao Paulo University, Brazil) 
+<br/>{{< fa globe >}}&nbsp; [UNICOP](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/unicop/) project
+
+<br/>
+
+**Abstract**
+
+Our project aimed at exploring the ecology of interactions involving ectomycorrhizal (ECM) fungi – that form symbioses with tree roots – in the Neotropics. Ectomycorrhizal interactions involve fungi belonging to up to 86 lineages and are often dominant in temperate and boreal forest soils – but show a scattered distribution and a lower diversity in the Neotropics as compared with other regions.
+
+Our CESAB group joined fungal and network ecologists from Brazil and France, but also Mexico, Colombia, Argentina, and United Kingdom. We aimed at gathering data from specimen and symbioses observations, specimens and root tips sequencing, and soil eDNA to explore new hypotheses explaining the peculiar ECM diversity pattern in the Neotropics. We evaluated:
+
+(1) how far the evolutionary history of Neotropical ECM differed from other regions and among lineages,
+
+(2) if environmental conditions or biogeographic history shape the present distribution of ECM in soils and
+
+(3) how these rare ECM symbioses could contribute to ecosystem stability through indirect interactions.
+
+ 
+
+For this CESABINAR, we will present our advances on these three axes, the challenges of gathering eDNA data from diverse projects and barcodes, and the perspectives for network ecology and conservation biology.
+
+ 
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::

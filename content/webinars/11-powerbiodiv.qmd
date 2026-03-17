@@ -20,5 +20,7 @@ Beyond these findings, the project also offers reflections on the challenges and
 
 **Talk**
 
-_Youtube video available soon_
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=hFFqRgYrDbM" title="Cesabinar #11 - POWERBIODIV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
+
+
