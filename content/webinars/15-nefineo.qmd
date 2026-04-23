@@ -6,7 +6,7 @@
 <br/>{{< fa user >}}&nbsp; **Mélanie Roy** (University of Toulouse, France / IRL IFAECI, Buenos Aires, Argentina) 
 <br/>{{< fa user >}}&nbsp; **Caroline Dracxler** (Sao Paulo University, Brazil) 
 <br/>{{< fa user >}}&nbsp; **Paulo R. Guimaraes Jr.** (Federal University of Rio de Janeiro & Sao Paulo University, Brazil) 
-<br/>{{< fa globe >}}&nbsp; [UNICOP](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/unicop/) project
+<br/>{{< fa globe >}}&nbsp; [NEFINEO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/nefineo/) project
 
 <br/>
 
