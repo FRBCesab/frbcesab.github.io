@@ -1,0 +1,28 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [16] Towards Quantifying Ecosystem Services Delivered by Soil Macrofauna in the Neotropics 
+<hr />
+
+{{< fa calendar-days >}}&nbsp; April 2026
+<br/>{{< fa user >}}&nbsp; **Jérôme Mathieu** (Institute of ecology end environmental sciences of Paris, Sorbonne University, France) 
+<br/>{{< fa user >}}&nbsp; **Miguel Cooper** (Escola Superior de Agricultura Luiz de Queiroz/ University of São Paulo, Brazil) 
+<br/>{{< fa globe >}}&nbsp; [FAUNASERVICES](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/faunaservices/) project
+
+<br/>
+
+**Abstract**
+
+Neotropical forests are widely recognized for their crucial role in climate regulation, particularly through tree-mediated water cycles. However, these ecosystems also harbor an exceptional diversity and abundance of soil organisms, whose contributions to ecosystem services have largely been overlooked. Yet, these organisms are highly vulnerable to land-use change and are rapidly declining with deforestation. 
+
+Quantifying their contribution to ecosystem functioning is therefore essential to fully understand the broader consequences of deforestation beyond vegetation loss. 
+
+In this project, we aimed to quantify key ecosystem services provided by soil macrofauna. To do so, we developed four harmonized databases: (i) a standardized dataset on the abundance of 40 soil macrofauna taxa (3k sites), (ii) a database on earthworm species occurrence and abundance (1.5k sites) , (iii) a dataset on soil profiles and associated ecosystem services (6k sites), and (iv) a database documenting the impacts of ecosystem engineers on soil processes (>1k records). 
+
+This seminar will present the main outcomes of the FaunaServices project, highlight the challenges encountered, and discuss how this initiative has laid the foundation for a long-term research network dedicated to understanding soil macrofauna-driven ecosystem services across South America. 
+ 
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::
