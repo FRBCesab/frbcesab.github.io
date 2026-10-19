@@ -13,6 +13,22 @@
 <br/>
 
 ```{r}
+#| child: "webinars/20-acoucene.qmd"
+```
+
+```{r}
+#| child: "webinars/19-spatman.qmd"
+```
+
+```{r}
+#| child: "webinars/18-maestro.qmd"
+```
+
+```{r}
+#| child: "webinars/17-intraco.qmd"
+```
+
+```{r}
 #| child: "webinars/16-faunaservices.qmd"
 ```
 
