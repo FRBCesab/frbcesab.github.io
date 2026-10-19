@@ -32,5 +32,5 @@ For this CESABINAR, we will present our advances on these three axes, the challe
 
 **Talk**
 
-_Youtube video available soon_
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5cnMXPjJ9O8" title="Cesabinar #15 - NEFINEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::

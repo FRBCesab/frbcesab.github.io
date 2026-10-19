@@ -1,0 +1,35 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [17] Unravelling the Role of Intraspecific Variability in the Coexistence of Tropical Forest Tree Species
+<hr />
+
+{{< fa calendar-days >}}&nbsp; June 2026
+<br/>{{< fa user >}}&nbsp; **Ghislain Vieilledent** (CIRAD, France) 
+<br/>{{< fa user >}}&nbsp; **Isabelle Maréchaux** (INRAE, France) 
+<br/>{{< fa globe >}}&nbsp; [INTRACO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/) project
+
+<br/>
+
+**Abstract**
+
+Hundreds of tree species can coexist within a single hectare of tropical forest. 
+Several mechanisms have been proposed to explain how so many species can stably 
+coexist while competing for a limited number of resources (mainly light, water, and nutrients). 
+Among these mechanisms, the role of intraspecific variability (IV), which is large 
+in tree communities, has only been recently considered. Studies that have so far 
+explored the effect of IV on species coexistence focused on species-poor systems, 
+used disparate approaches, and reached contrasting results. IV can result from genetic 
+variability and could make species less different, hindering their stable coexistence. 
+A different view is that observed IV is primarily the result of fine-scale environmental 
+variability and could reveal differences among species on unobserved dimensions, promoting 
+species coexistence. [INTRACO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/intraco/) proposes to provide a clear synthesis of the effect of 
+IV on species coexistence in hyperdiverse communities combining literature review, 
+empirical data-set analyses, and both theoretical and data-based models. 
+Our results will help understand and predict changes in biodiversity in a global change context.
+
+
+<br/>
+
+**Talk**
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HcD7gjqE1Ds" title="Cesabinar #17 - INTRACO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::

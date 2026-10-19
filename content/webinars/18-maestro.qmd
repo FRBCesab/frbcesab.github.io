@@ -1,0 +1,38 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [18] Towards climate-ready fisheries management in the Northeast Atlantic and Mediterranean Sea
+<hr />
+
+{{< fa calendar-days >}}&nbsp; June 2026
+<br/>{{< fa user >}}&nbsp; **Arnaud Auber** (IFREMER, France) 
+<br/>{{< fa globe >}}&nbsp; [MAESTRO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/maestro/) project
+
+<br/>
+
+**Abstract**
+
+Oceans provide more than 60% of the world’s monetized ecosystem services and are 
+essential for food security and economic activity through marine resources such 
+as fish and benthic invertebrates. Yet climate change and fishing pressure are 
+altering the distribution, abundance, and composition of marine species worldwide. 
+Although many studies have projected future species distributions, far less 
+attention has been devoted to understanding how these drivers affect the functional 
+diversity of marine communities, a key determinant of ecosystem functioning. 
+This gap limits our ability to anticipate the combined impacts of climate change 
+and fisheries exploitation and to develop adaptive management strategies. The 
+[MAESTRO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/maestro/) project addresses this challenge by integrating datasets on fish and 
+invertebrate communities from the Northeast Atlantic and the Mediterranean Sea. 
+Its first objective is to quantify the effects of climate change and fishing on 
+the functional diversity of communities over the past three decades. The second 
+objective is to predict how these communities will respond to ocean warming from 
+the contemporary period to the end of the century. Finally, [MAESTRO](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/maestro/) seeks to 
+identify alternative fishing strategies targeting novel combinations of species 
+that minimize impacts on ecosystem functioning while maintaining levels of 
+fishery landings, supporting climate-resilient fisheries management.
+
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::

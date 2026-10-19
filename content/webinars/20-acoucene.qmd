@@ -1,0 +1,36 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [20] Towards acoustic connectivity corridors?
+<hr />
+
+{{< fa calendar-days >}}&nbsp; October 2026
+<br/>{{< fa user >}}&nbsp; **Jean-Yves Barnagaud** (CNRS-CEFE, France) 
+<br/>{{< fa globe >}}&nbsp; [ACOUCENE](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/acoucene/) project
+
+<br/>
+
+**Abstract**
+
+The information flow circulating within ecosystems underpins a network of 
+semiotic connectivity that contributes to biodiversity dynamics at the landscape 
+and local scales. Public environmental policies are beginning to take this 
+informational dimension into account. It remains, however, difficult to 
+characterize. Acoustics is likely the most measurable vector of information and 
+has the advantage of being easy for stakeholders to understand. This likely 
+explains the rise of the concept of soundscapes and the scientific discipline 
+that studies them, ecoacoustics. While indicators of soundscapes dynamics are 
+now operational, their relationship to the processes that enable acoustic 
+connectivity in landscapes has yet to be established. Acoucène offers an initial 
+approach toward this goal, combining empirical research with the development of 
+a theoretical framework, using common passerines in metropolitan France as a 
+case study. This seminar details the project’s approach, the theoretical and 
+methodological challenges, and prospects for operationalizing the concept of 
+acoustic connectivity in the context of spatial planning strategies based on 
+ecological corridors.
+
+
+<br/>
+
+**Talk**
+
+_This conference wasn’t registered._
+:::

@@ -1,0 +1,44 @@
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## [19] What Role for the Spatial Organisation of Human Societies to Modulate their Pressures on Biodiversity?
+<hr />
+
+{{< fa calendar-days >}}&nbsp; October 2026
+<br/>{{< fa user >}}&nbsp; **Isabelle Boulangeat** (INRAE, France) 
+<br/>{{< fa user >}}&nbsp; **Mohamed Hilal** (INRAE, France)
+<br/>{{< fa user >}}&nbsp; **Cathleen Petit-Cailleux** (Kyoto University, France)
+<br/>{{< fa globe >}}&nbsp; [SPATMAN](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/spatman/) project
+
+<br/>
+
+**Abstract**
+
+Human pressures on biodiversity are influenced not just by the intensity of human 
+activities, but also by their spatial organization. This is the main focus of 
+the FRB-CESAB [SPATMAN](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/spatman/) project, which unites conservation ecologists, spatial 
+ecologists, geographers, and economists to investigate how human pressures impact 
+biodiversity by examining the characteristics of the human activities involved.
+
+This webinar presents two subprojects. The first links the presence of sensitive 
+species (birds, mammals, amphibians) to two dimensions of human pressures: 
+(1) how humans have structured the landscape and (2) where people are or move 
+(resident population, work mobility, tourism). This research is carried out on 
+a 10×10 km grid, using machine learning in addition to linear models. Results 
+emphasize a significant role for human mobility.
+
+The second subproject maps, on a global scale, the scientific evidence regarding
+direct human pressures on terrestrial biodiversity. It assesses among other 
+criteria the frequency of different ecological scales in the studies and the 
+types of human pressures or activities investigated. Using a corpus of nearly 
+200,000 references, natural language processing tools identify thematic trends 
+and knowledge gaps.
+
+Together, these two approaches demonstrate how SPATMAN offers a new perspective 
+on human pressures and their impacts on biodiversity.
+
+
+<br/>
+
+**Talk**
+
+_Youtube video available soon_
+:::
